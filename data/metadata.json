@@ -1,0 +1,5492 @@
+[
+  {
+    "clip_id": "clip_0000",
+    "file": "clip_0000.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 0.318,
+        "end": 0.918
+      },
+      {
+        "event": "dog_bark",
+        "start": 2.959,
+        "end": 3.259
+      },
+      {
+        "event": "phone_ring",
+        "start": 4.151,
+        "end": 5.151
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.77,
+        "end": 7.27
+      },
+      {
+        "event": "siren",
+        "start": 7.385,
+        "end": 9.885
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0001",
+    "file": "clip_0001.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.0,
+        "end": 1.5
+      },
+      {
+        "event": "dog_bark",
+        "start": 3.63,
+        "end": 3.93
+      },
+      {
+        "event": "rain",
+        "start": 4.998,
+        "end": 6.998
+      },
+      {
+        "event": "door_knock",
+        "start": 7.332,
+        "end": 7.932
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0002",
+    "file": "clip_0002.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 2.538,
+        "end": 3.538
+      },
+      {
+        "event": "footsteps",
+        "start": 3.976,
+        "end": 5.576
+      },
+      {
+        "event": "rain",
+        "start": 6.869,
+        "end": 8.869
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0003",
+    "file": "clip_0003.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 2.046,
+        "end": 2.646
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 3.029,
+        "end": 4.529
+      },
+      {
+        "event": "siren",
+        "start": 4.819,
+        "end": 7.319
+      }
+    ],
+    "environment": "street with emergency vehicle traffic"
+  },
+  {
+    "clip_id": "clip_0004",
+    "file": "clip_0004.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 3.03,
+        "end": 4.53
+      },
+      {
+        "event": "door_knock",
+        "start": 5.871,
+        "end": 6.471
+      },
+      {
+        "event": "rain",
+        "start": 6.796,
+        "end": 8.796
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0005",
+    "file": "clip_0005.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 0.756,
+        "end": 1.356
+      },
+      {
+        "event": "footsteps",
+        "start": 1.902,
+        "end": 3.502
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 3.788,
+        "end": 5.288
+      },
+      {
+        "event": "baby_cry",
+        "start": 7.0,
+        "end": 8.2
+      },
+      {
+        "event": "car_horn",
+        "start": 8.712,
+        "end": 9.312
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0006",
+    "file": "clip_0006.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 0.815,
+        "end": 3.315
+      },
+      {
+        "event": "phone_ring",
+        "start": 3.979,
+        "end": 4.979
+      },
+      {
+        "event": "rain",
+        "start": 5.01,
+        "end": 7.01
+      },
+      {
+        "event": "door_knock",
+        "start": 7.037,
+        "end": 7.637
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0007",
+    "file": "clip_0007.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 0.215,
+        "end": 0.515
+      },
+      {
+        "event": "rain",
+        "start": 2.004,
+        "end": 4.004
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 4.497,
+        "end": 5.997
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0008",
+    "file": "clip_0008.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 0.314,
+        "end": 0.714
+      },
+      {
+        "event": "footsteps",
+        "start": 2.249,
+        "end": 3.849
+      },
+      {
+        "event": "phone_ring",
+        "start": 4.065,
+        "end": 5.065
+      },
+      {
+        "event": "car_horn",
+        "start": 5.35,
+        "end": 5.95
+      },
+      {
+        "event": "siren",
+        "start": 6.459,
+        "end": 8.959
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0009",
+    "file": "clip_0009.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 1.08,
+        "end": 2.28
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 2.604,
+        "end": 4.104
+      },
+      {
+        "event": "phone_ring",
+        "start": 6.083,
+        "end": 7.083
+      },
+      {
+        "event": "door_knock",
+        "start": 8.424,
+        "end": 9.024
+      },
+      {
+        "event": "glass_break",
+        "start": 9.191,
+        "end": 9.591
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0010",
+    "file": "clip_0010.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 0.246,
+        "end": 1.846
+      },
+      {
+        "event": "siren",
+        "start": 1.956,
+        "end": 4.456
+      },
+      {
+        "event": "car_horn",
+        "start": 5.685,
+        "end": 6.285
+      },
+      {
+        "event": "rain",
+        "start": 6.451,
+        "end": 8.451
+      },
+      {
+        "event": "baby_cry",
+        "start": 8.498,
+        "end": 9.698
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0011",
+    "file": "clip_0011.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 0.751,
+        "end": 1.151
+      },
+      {
+        "event": "baby_cry",
+        "start": 1.77,
+        "end": 2.97
+      },
+      {
+        "event": "phone_ring",
+        "start": 3.439,
+        "end": 4.439
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 7.142,
+        "end": 8.642
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0012",
+    "file": "clip_0012.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 1.909,
+        "end": 2.309
+      },
+      {
+        "event": "dog_bark",
+        "start": 2.709,
+        "end": 3.009
+      },
+      {
+        "event": "phone_ring",
+        "start": 7.321,
+        "end": 8.321
+      }
+    ],
+    "environment": "home intrusion / disturbance scene"
+  },
+  {
+    "clip_id": "clip_0013",
+    "file": "clip_0013.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 0.401,
+        "end": 2.001
+      },
+      {
+        "event": "baby_cry",
+        "start": 2.385,
+        "end": 3.585
+      },
+      {
+        "event": "car_horn",
+        "start": 3.749,
+        "end": 4.349
+      },
+      {
+        "event": "siren",
+        "start": 5.458,
+        "end": 7.958
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0014",
+    "file": "clip_0014.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.168,
+        "end": 2.168
+      },
+      {
+        "event": "baby_cry",
+        "start": 2.319,
+        "end": 3.519
+      },
+      {
+        "event": "rain",
+        "start": 4.859,
+        "end": 6.859
+      },
+      {
+        "event": "car_horn",
+        "start": 7.423,
+        "end": 8.023
+      },
+      {
+        "event": "footsteps",
+        "start": 8.136,
+        "end": 9.736
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0015",
+    "file": "clip_0015.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 2.27,
+        "end": 3.47
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 3.969,
+        "end": 5.469
+      },
+      {
+        "event": "dog_bark",
+        "start": 5.853,
+        "end": 6.153
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0016",
+    "file": "clip_0016.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 1.717,
+        "end": 2.117
+      },
+      {
+        "event": "car_horn",
+        "start": 3.371,
+        "end": 3.971
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0017",
+    "file": "clip_0017.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 0.231,
+        "end": 1.831
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 3.423,
+        "end": 4.923
+      },
+      {
+        "event": "glass_break",
+        "start": 5.687,
+        "end": 6.087
+      },
+      {
+        "event": "phone_ring",
+        "start": 7.133,
+        "end": 8.133
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0018",
+    "file": "clip_0018.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 1.31,
+        "end": 1.91
+      },
+      {
+        "event": "glass_break",
+        "start": 2.083,
+        "end": 2.483
+      },
+      {
+        "event": "baby_cry",
+        "start": 3.577,
+        "end": 4.777
+      },
+      {
+        "event": "dog_bark",
+        "start": 6.079,
+        "end": 6.379
+      },
+      {
+        "event": "car_horn",
+        "start": 7.56,
+        "end": 8.16
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0019",
+    "file": "clip_0019.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 2.523,
+        "end": 3.123
+      },
+      {
+        "event": "door_knock",
+        "start": 4.646,
+        "end": 5.246
+      },
+      {
+        "event": "dog_bark",
+        "start": 9.675,
+        "end": 9.975
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0020",
+    "file": "clip_0020.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 1.609,
+        "end": 2.809
+      },
+      {
+        "event": "rain",
+        "start": 2.829,
+        "end": 4.829
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.47,
+        "end": 6.97
+      },
+      {
+        "event": "dog_bark",
+        "start": 9.279,
+        "end": 9.579
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0021",
+    "file": "clip_0021.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 0.438,
+        "end": 0.838
+      },
+      {
+        "event": "rain",
+        "start": 1.571,
+        "end": 3.571
+      },
+      {
+        "event": "footsteps",
+        "start": 5.375,
+        "end": 6.975
+      },
+      {
+        "event": "door_knock",
+        "start": 7.751,
+        "end": 8.351
+      },
+      {
+        "event": "phone_ring",
+        "start": 8.917,
+        "end": 9.917
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0022",
+    "file": "clip_0022.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 0.049,
+        "end": 0.449
+      },
+      {
+        "event": "rain",
+        "start": 0.777,
+        "end": 2.777
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 2.872,
+        "end": 4.372
+      },
+      {
+        "event": "siren",
+        "start": 5.641,
+        "end": 8.141
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0023",
+    "file": "clip_0023.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 2.512,
+        "end": 3.112
+      },
+      {
+        "event": "dog_bark",
+        "start": 3.379,
+        "end": 3.679
+      },
+      {
+        "event": "siren",
+        "start": 4.482,
+        "end": 6.982
+      },
+      {
+        "event": "door_knock",
+        "start": 6.984,
+        "end": 7.584
+      },
+      {
+        "event": "footsteps",
+        "start": 8.225,
+        "end": 9.825
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0024",
+    "file": "clip_0024.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 5.722,
+        "end": 7.722
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 8.157,
+        "end": 9.657
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0025",
+    "file": "clip_0025.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 3.134,
+        "end": 3.434
+      },
+      {
+        "event": "baby_cry",
+        "start": 8.696,
+        "end": 9.896
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0026",
+    "file": "clip_0026.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 0.628,
+        "end": 1.228
+      },
+      {
+        "event": "rain",
+        "start": 6.197,
+        "end": 8.197
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0027",
+    "file": "clip_0027.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 2.855,
+        "end": 5.355
+      },
+      {
+        "event": "glass_break",
+        "start": 5.468,
+        "end": 5.868
+      },
+      {
+        "event": "baby_cry",
+        "start": 6.603,
+        "end": 7.803
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0028",
+    "file": "clip_0028.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 1.66,
+        "end": 4.16
+      },
+      {
+        "event": "dog_bark",
+        "start": 4.443,
+        "end": 4.743
+      },
+      {
+        "event": "footsteps",
+        "start": 5.748,
+        "end": 7.348
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0029",
+    "file": "clip_0029.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 0.36,
+        "end": 0.66
+      },
+      {
+        "event": "siren",
+        "start": 0.962,
+        "end": 3.462
+      },
+      {
+        "event": "phone_ring",
+        "start": 4.591,
+        "end": 5.591
+      },
+      {
+        "event": "baby_cry",
+        "start": 6.331,
+        "end": 7.531
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0030",
+    "file": "clip_0030.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.504,
+        "end": 2.504
+      },
+      {
+        "event": "siren",
+        "start": 2.522,
+        "end": 5.022
+      },
+      {
+        "event": "glass_break",
+        "start": 5.257,
+        "end": 5.657
+      },
+      {
+        "event": "car_horn",
+        "start": 5.824,
+        "end": 6.424
+      }
+    ],
+    "environment": "street with emergency vehicle traffic"
+  },
+  {
+    "clip_id": "clip_0031",
+    "file": "clip_0031.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.779,
+        "end": 2.779
+      },
+      {
+        "event": "rain",
+        "start": 5.183,
+        "end": 7.183
+      },
+      {
+        "event": "dog_bark",
+        "start": 8.275,
+        "end": 8.575
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0032",
+    "file": "clip_0032.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 1.716,
+        "end": 2.916
+      },
+      {
+        "event": "dog_bark",
+        "start": 3.25,
+        "end": 3.55
+      },
+      {
+        "event": "door_knock",
+        "start": 4.901,
+        "end": 5.501
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 7.45,
+        "end": 8.95
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0033",
+    "file": "clip_0033.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 1.125,
+        "end": 3.125
+      },
+      {
+        "event": "siren",
+        "start": 7.352,
+        "end": 9.852
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0034",
+    "file": "clip_0034.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.581,
+        "end": 2.081
+      },
+      {
+        "event": "rain",
+        "start": 2.265,
+        "end": 4.265
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0035",
+    "file": "clip_0035.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 1.096,
+        "end": 1.696
+      },
+      {
+        "event": "rain",
+        "start": 2.48,
+        "end": 4.48
+      },
+      {
+        "event": "phone_ring",
+        "start": 5.323,
+        "end": 6.323
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0036",
+    "file": "clip_0036.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 1.165,
+        "end": 2.765
+      },
+      {
+        "event": "phone_ring",
+        "start": 6.425,
+        "end": 7.425
+      },
+      {
+        "event": "glass_break",
+        "start": 7.686,
+        "end": 8.086
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 8.134,
+        "end": 9.634
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0037",
+    "file": "clip_0037.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 1.829,
+        "end": 2.429
+      },
+      {
+        "event": "rain",
+        "start": 4.222,
+        "end": 6.222
+      },
+      {
+        "event": "door_knock",
+        "start": 8.005,
+        "end": 8.605
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0038",
+    "file": "clip_0038.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 2.882,
+        "end": 4.482
+      },
+      {
+        "event": "glass_break",
+        "start": 4.72,
+        "end": 5.12
+      },
+      {
+        "event": "phone_ring",
+        "start": 6.593,
+        "end": 7.593
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0039",
+    "file": "clip_0039.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 1.125,
+        "end": 2.325
+      },
+      {
+        "event": "dog_bark",
+        "start": 3.395,
+        "end": 3.695
+      },
+      {
+        "event": "phone_ring",
+        "start": 5.478,
+        "end": 6.478
+      },
+      {
+        "event": "door_knock",
+        "start": 8.618,
+        "end": 9.218
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0040",
+    "file": "clip_0040.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 1.782,
+        "end": 3.382
+      },
+      {
+        "event": "phone_ring",
+        "start": 4.404,
+        "end": 5.404
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0041",
+    "file": "clip_0041.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 3.342,
+        "end": 3.942
+      },
+      {
+        "event": "baby_cry",
+        "start": 7.71,
+        "end": 8.91
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0042",
+    "file": "clip_0042.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.947,
+        "end": 2.947
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 3.265,
+        "end": 4.765
+      },
+      {
+        "event": "rain",
+        "start": 7.944,
+        "end": 9.944
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0043",
+    "file": "clip_0043.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.125,
+        "end": 2.125
+      },
+      {
+        "event": "dog_bark",
+        "start": 3.863,
+        "end": 4.163
+      },
+      {
+        "event": "baby_cry",
+        "start": 5.721,
+        "end": 6.921
+      },
+      {
+        "event": "footsteps",
+        "start": 6.983,
+        "end": 8.583
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0044",
+    "file": "clip_0044.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 0.626,
+        "end": 1.626
+      },
+      {
+        "event": "footsteps",
+        "start": 5.983,
+        "end": 7.583
+      },
+      {
+        "event": "glass_break",
+        "start": 7.971,
+        "end": 8.371
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0045",
+    "file": "clip_0045.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 3.211,
+        "end": 5.711
+      },
+      {
+        "event": "baby_cry",
+        "start": 6.406,
+        "end": 7.606
+      },
+      {
+        "event": "dog_bark",
+        "start": 7.836,
+        "end": 8.136
+      },
+      {
+        "event": "glass_break",
+        "start": 8.155,
+        "end": 8.555
+      }
+    ],
+    "environment": "home intrusion / disturbance scene"
+  },
+  {
+    "clip_id": "clip_0046",
+    "file": "clip_0046.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 5.285,
+        "end": 6.885
+      },
+      {
+        "event": "baby_cry",
+        "start": 7.129,
+        "end": 8.329
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0047",
+    "file": "clip_0047.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 2.603,
+        "end": 3.203
+      },
+      {
+        "event": "baby_cry",
+        "start": 8.648,
+        "end": 9.848
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0048",
+    "file": "clip_0048.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 0.488,
+        "end": 2.988
+      },
+      {
+        "event": "footsteps",
+        "start": 3.933,
+        "end": 5.533
+      },
+      {
+        "event": "dog_bark",
+        "start": 5.967,
+        "end": 6.267
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0049",
+    "file": "clip_0049.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 1.447,
+        "end": 2.047
+      },
+      {
+        "event": "dog_bark",
+        "start": 2.944,
+        "end": 3.244
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 7.771,
+        "end": 9.271
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0050",
+    "file": "clip_0050.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 0.913,
+        "end": 3.413
+      },
+      {
+        "event": "dog_bark",
+        "start": 4.774,
+        "end": 5.074
+      },
+      {
+        "event": "footsteps",
+        "start": 8.261,
+        "end": 9.861
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0051",
+    "file": "clip_0051.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 0.718,
+        "end": 1.318
+      },
+      {
+        "event": "siren",
+        "start": 1.949,
+        "end": 4.449
+      },
+      {
+        "event": "rain",
+        "start": 4.598,
+        "end": 6.598
+      },
+      {
+        "event": "footsteps",
+        "start": 6.643,
+        "end": 8.243
+      },
+      {
+        "event": "car_horn",
+        "start": 9.292,
+        "end": 9.892
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0052",
+    "file": "clip_0052.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 1.298,
+        "end": 1.898
+      },
+      {
+        "event": "siren",
+        "start": 2.464,
+        "end": 4.964
+      },
+      {
+        "event": "dog_bark",
+        "start": 5.269,
+        "end": 5.569
+      },
+      {
+        "event": "baby_cry",
+        "start": 6.173,
+        "end": 7.373
+      },
+      {
+        "event": "rain",
+        "start": 7.696,
+        "end": 9.696
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0053",
+    "file": "clip_0053.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 1.182,
+        "end": 3.182
+      },
+      {
+        "event": "glass_break",
+        "start": 3.288,
+        "end": 3.688
+      },
+      {
+        "event": "door_knock",
+        "start": 7.653,
+        "end": 8.253
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0054",
+    "file": "clip_0054.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 0.891,
+        "end": 2.891
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 3.639,
+        "end": 5.139
+      },
+      {
+        "event": "dog_bark",
+        "start": 6.845,
+        "end": 7.145
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0055",
+    "file": "clip_0055.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 1.168,
+        "end": 1.768
+      },
+      {
+        "event": "dog_bark",
+        "start": 2.021,
+        "end": 2.321
+      },
+      {
+        "event": "car_horn",
+        "start": 3.33,
+        "end": 3.93
+      },
+      {
+        "event": "footsteps",
+        "start": 8.302,
+        "end": 9.902
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0056",
+    "file": "clip_0056.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 3.75,
+        "end": 5.25
+      },
+      {
+        "event": "phone_ring",
+        "start": 5.511,
+        "end": 6.511
+      },
+      {
+        "event": "dog_bark",
+        "start": 7.463,
+        "end": 7.763
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0057",
+    "file": "clip_0057.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 0.97,
+        "end": 1.27
+      },
+      {
+        "event": "siren",
+        "start": 2.275,
+        "end": 4.775
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 4.868,
+        "end": 6.368
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0058",
+    "file": "clip_0058.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 1.334,
+        "end": 1.934
+      },
+      {
+        "event": "phone_ring",
+        "start": 6.426,
+        "end": 7.426
+      },
+      {
+        "event": "baby_cry",
+        "start": 8.146,
+        "end": 9.346
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0059",
+    "file": "clip_0059.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 0.935,
+        "end": 3.435
+      },
+      {
+        "event": "door_knock",
+        "start": 3.759,
+        "end": 4.359
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 4.721,
+        "end": 6.221
+      },
+      {
+        "event": "baby_cry",
+        "start": 6.66,
+        "end": 7.86
+      },
+      {
+        "event": "footsteps",
+        "start": 8.373,
+        "end": 9.973
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0060",
+    "file": "clip_0060.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 2.552,
+        "end": 2.852
+      },
+      {
+        "event": "phone_ring",
+        "start": 3.082,
+        "end": 4.082
+      },
+      {
+        "event": "baby_cry",
+        "start": 4.296,
+        "end": 5.496
+      },
+      {
+        "event": "car_horn",
+        "start": 6.845,
+        "end": 7.445
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0061",
+    "file": "clip_0061.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.579,
+        "end": 2.079
+      },
+      {
+        "event": "door_knock",
+        "start": 2.157,
+        "end": 2.757
+      },
+      {
+        "event": "glass_break",
+        "start": 4.215,
+        "end": 4.615
+      },
+      {
+        "event": "rain",
+        "start": 6.714,
+        "end": 8.714
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0062",
+    "file": "clip_0062.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 2.336,
+        "end": 2.936
+      },
+      {
+        "event": "car_horn",
+        "start": 4.057,
+        "end": 4.657
+      },
+      {
+        "event": "rain",
+        "start": 6.178,
+        "end": 8.178
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 8.426,
+        "end": 9.926
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0063",
+    "file": "clip_0063.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.431,
+        "end": 1.931
+      },
+      {
+        "event": "rain",
+        "start": 3.236,
+        "end": 5.236
+      },
+      {
+        "event": "siren",
+        "start": 5.252,
+        "end": 7.752
+      },
+      {
+        "event": "baby_cry",
+        "start": 7.993,
+        "end": 9.193
+      },
+      {
+        "event": "glass_break",
+        "start": 9.578,
+        "end": 9.978
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0064",
+    "file": "clip_0064.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 0.676,
+        "end": 1.876
+      },
+      {
+        "event": "rain",
+        "start": 5.548,
+        "end": 7.548
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0065",
+    "file": "clip_0065.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 1.301,
+        "end": 1.701
+      },
+      {
+        "event": "footsteps",
+        "start": 5.917,
+        "end": 7.517
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0066",
+    "file": "clip_0066.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 1.027,
+        "end": 2.227
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 2.801,
+        "end": 4.301
+      },
+      {
+        "event": "door_knock",
+        "start": 5.276,
+        "end": 5.876
+      },
+      {
+        "event": "siren",
+        "start": 5.906,
+        "end": 8.406
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0067",
+    "file": "clip_0067.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 0.015,
+        "end": 1.015
+      },
+      {
+        "event": "baby_cry",
+        "start": 3.184,
+        "end": 4.384
+      },
+      {
+        "event": "glass_break",
+        "start": 4.881,
+        "end": 5.281
+      },
+      {
+        "event": "door_knock",
+        "start": 5.356,
+        "end": 5.956
+      },
+      {
+        "event": "car_horn",
+        "start": 8.152,
+        "end": 8.752
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0068",
+    "file": "clip_0068.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 1.381,
+        "end": 1.781
+      },
+      {
+        "event": "car_horn",
+        "start": 2.537,
+        "end": 3.137
+      },
+      {
+        "event": "phone_ring",
+        "start": 5.525,
+        "end": 6.525
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0069",
+    "file": "clip_0069.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 0.121,
+        "end": 1.121
+      },
+      {
+        "event": "door_knock",
+        "start": 7.236,
+        "end": 7.836
+      },
+      {
+        "event": "baby_cry",
+        "start": 8.455,
+        "end": 9.655
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0070",
+    "file": "clip_0070.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 0.147,
+        "end": 0.747
+      },
+      {
+        "event": "footsteps",
+        "start": 1.531,
+        "end": 3.131
+      },
+      {
+        "event": "baby_cry",
+        "start": 3.96,
+        "end": 5.16
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 7.116,
+        "end": 8.616
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0071",
+    "file": "clip_0071.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 1.962,
+        "end": 3.962
+      },
+      {
+        "event": "siren",
+        "start": 5.02,
+        "end": 7.52
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0072",
+    "file": "clip_0072.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 1.538,
+        "end": 3.038
+      },
+      {
+        "event": "dog_bark",
+        "start": 3.323,
+        "end": 3.623
+      },
+      {
+        "event": "siren",
+        "start": 4.81,
+        "end": 7.31
+      },
+      {
+        "event": "rain",
+        "start": 7.886,
+        "end": 9.886
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0073",
+    "file": "clip_0073.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 1.259,
+        "end": 1.659
+      },
+      {
+        "event": "dog_bark",
+        "start": 1.883,
+        "end": 2.183
+      },
+      {
+        "event": "siren",
+        "start": 2.825,
+        "end": 5.325
+      },
+      {
+        "event": "footsteps",
+        "start": 6.137,
+        "end": 7.737
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0074",
+    "file": "clip_0074.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 0.033,
+        "end": 2.533
+      },
+      {
+        "event": "footsteps",
+        "start": 2.966,
+        "end": 4.566
+      },
+      {
+        "event": "glass_break",
+        "start": 6.356,
+        "end": 6.756
+      },
+      {
+        "event": "car_horn",
+        "start": 7.648,
+        "end": 8.248
+      },
+      {
+        "event": "phone_ring",
+        "start": 8.442,
+        "end": 9.442
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0075",
+    "file": "clip_0075.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 1.013,
+        "end": 1.313
+      },
+      {
+        "event": "siren",
+        "start": 1.474,
+        "end": 3.974
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.135,
+        "end": 6.635
+      },
+      {
+        "event": "glass_break",
+        "start": 8.555,
+        "end": 8.955
+      }
+    ],
+    "environment": "home intrusion / disturbance scene"
+  },
+  {
+    "clip_id": "clip_0076",
+    "file": "clip_0076.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 0.387,
+        "end": 2.887
+      },
+      {
+        "event": "phone_ring",
+        "start": 2.934,
+        "end": 3.934
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.258,
+        "end": 6.758
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0077",
+    "file": "clip_0077.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 2.589,
+        "end": 4.589
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.934,
+        "end": 7.434
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0078",
+    "file": "clip_0078.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 0.08,
+        "end": 0.68
+      },
+      {
+        "event": "footsteps",
+        "start": 4.74,
+        "end": 6.34
+      },
+      {
+        "event": "car_horn",
+        "start": 6.407,
+        "end": 7.007
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0079",
+    "file": "clip_0079.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.204,
+        "end": 2.204
+      },
+      {
+        "event": "car_horn",
+        "start": 4.316,
+        "end": 4.916
+      },
+      {
+        "event": "dog_bark",
+        "start": 6.613,
+        "end": 6.913
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0080",
+    "file": "clip_0080.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.447,
+        "end": 1.947
+      },
+      {
+        "event": "siren",
+        "start": 3.663,
+        "end": 6.163
+      },
+      {
+        "event": "baby_cry",
+        "start": 6.375,
+        "end": 7.575
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0081",
+    "file": "clip_0081.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 3.722,
+        "end": 5.222
+      },
+      {
+        "event": "dog_bark",
+        "start": 6.226,
+        "end": 6.526
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0082",
+    "file": "clip_0082.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 3.988,
+        "end": 6.488
+      },
+      {
+        "event": "door_knock",
+        "start": 6.892,
+        "end": 7.492
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0083",
+    "file": "clip_0083.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 0.17,
+        "end": 0.57
+      },
+      {
+        "event": "footsteps",
+        "start": 1.678,
+        "end": 3.278
+      },
+      {
+        "event": "siren",
+        "start": 5.343,
+        "end": 7.843
+      },
+      {
+        "event": "car_horn",
+        "start": 8.291,
+        "end": 8.891
+      },
+      {
+        "event": "door_knock",
+        "start": 9.252,
+        "end": 9.852
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0084",
+    "file": "clip_0084.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 0.149,
+        "end": 1.149
+      },
+      {
+        "event": "baby_cry",
+        "start": 2.674,
+        "end": 3.874
+      },
+      {
+        "event": "glass_break",
+        "start": 4.655,
+        "end": 5.055
+      },
+      {
+        "event": "rain",
+        "start": 6.228,
+        "end": 8.228
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0085",
+    "file": "clip_0085.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 1.696,
+        "end": 3.196
+      },
+      {
+        "event": "phone_ring",
+        "start": 4.235,
+        "end": 5.235
+      },
+      {
+        "event": "door_knock",
+        "start": 5.752,
+        "end": 6.352
+      },
+      {
+        "event": "siren",
+        "start": 6.674,
+        "end": 9.174
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0086",
+    "file": "clip_0086.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 1.233,
+        "end": 1.833
+      },
+      {
+        "event": "footsteps",
+        "start": 2.708,
+        "end": 4.308
+      },
+      {
+        "event": "glass_break",
+        "start": 6.028,
+        "end": 6.428
+      },
+      {
+        "event": "car_horn",
+        "start": 8.878,
+        "end": 9.478
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0087",
+    "file": "clip_0087.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.075,
+        "end": 2.075
+      },
+      {
+        "event": "door_knock",
+        "start": 2.098,
+        "end": 2.698
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 6.659,
+        "end": 8.159
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0088",
+    "file": "clip_0088.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 1.254,
+        "end": 3.254
+      },
+      {
+        "event": "glass_break",
+        "start": 4.036,
+        "end": 4.436
+      },
+      {
+        "event": "baby_cry",
+        "start": 6.474,
+        "end": 7.674
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 7.674,
+        "end": 9.174
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0089",
+    "file": "clip_0089.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 1.218,
+        "end": 2.418
+      },
+      {
+        "event": "door_knock",
+        "start": 3.47,
+        "end": 4.07
+      },
+      {
+        "event": "siren",
+        "start": 5.366,
+        "end": 7.866
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 8.233,
+        "end": 9.733
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0090",
+    "file": "clip_0090.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 1.915,
+        "end": 2.515
+      },
+      {
+        "event": "baby_cry",
+        "start": 5.425,
+        "end": 6.625
+      },
+      {
+        "event": "footsteps",
+        "start": 7.455,
+        "end": 9.055
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0091",
+    "file": "clip_0091.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 0.207,
+        "end": 2.207
+      },
+      {
+        "event": "glass_break",
+        "start": 5.903,
+        "end": 6.303
+      },
+      {
+        "event": "phone_ring",
+        "start": 8.83,
+        "end": 9.83
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0092",
+    "file": "clip_0092.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.371,
+        "end": 1.871
+      },
+      {
+        "event": "baby_cry",
+        "start": 2.785,
+        "end": 3.985
+      },
+      {
+        "event": "phone_ring",
+        "start": 4.564,
+        "end": 5.564
+      },
+      {
+        "event": "dog_bark",
+        "start": 6.245,
+        "end": 6.545
+      },
+      {
+        "event": "car_horn",
+        "start": 8.079,
+        "end": 8.679
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0093",
+    "file": "clip_0093.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.257,
+        "end": 2.257
+      },
+      {
+        "event": "footsteps",
+        "start": 2.324,
+        "end": 3.924
+      },
+      {
+        "event": "glass_break",
+        "start": 4.316,
+        "end": 4.716
+      },
+      {
+        "event": "dog_bark",
+        "start": 7.138,
+        "end": 7.438
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0094",
+    "file": "clip_0094.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.951,
+        "end": 2.451
+      },
+      {
+        "event": "phone_ring",
+        "start": 8.755,
+        "end": 9.755
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0095",
+    "file": "clip_0095.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 3.816,
+        "end": 5.316
+      },
+      {
+        "event": "dog_bark",
+        "start": 8.683,
+        "end": 8.983
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0096",
+    "file": "clip_0096.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 2.398,
+        "end": 3.598
+      },
+      {
+        "event": "siren",
+        "start": 4.258,
+        "end": 6.758
+      },
+      {
+        "event": "glass_break",
+        "start": 9.377,
+        "end": 9.777
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0097",
+    "file": "clip_0097.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.205,
+        "end": 2.205
+      },
+      {
+        "event": "siren",
+        "start": 2.636,
+        "end": 5.136
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.312,
+        "end": 6.812
+      },
+      {
+        "event": "glass_break",
+        "start": 7.859,
+        "end": 8.259
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0098",
+    "file": "clip_0098.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 2.124,
+        "end": 3.324
+      },
+      {
+        "event": "car_horn",
+        "start": 4.31,
+        "end": 4.91
+      },
+      {
+        "event": "footsteps",
+        "start": 8.286,
+        "end": 9.886
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0099",
+    "file": "clip_0099.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 4.885,
+        "end": 7.385
+      },
+      {
+        "event": "glass_break",
+        "start": 7.391,
+        "end": 7.791
+      }
+    ],
+    "environment": "street with emergency vehicle traffic"
+  },
+  {
+    "clip_id": "clip_0100",
+    "file": "clip_0100.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.026,
+        "end": 1.526
+      },
+      {
+        "event": "glass_break",
+        "start": 1.889,
+        "end": 2.289
+      },
+      {
+        "event": "phone_ring",
+        "start": 2.455,
+        "end": 3.455
+      },
+      {
+        "event": "dog_bark",
+        "start": 4.439,
+        "end": 4.739
+      },
+      {
+        "event": "car_horn",
+        "start": 6.678,
+        "end": 7.278
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0101",
+    "file": "clip_0101.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 1.184,
+        "end": 3.684
+      },
+      {
+        "event": "car_horn",
+        "start": 4.477,
+        "end": 5.077
+      },
+      {
+        "event": "rain",
+        "start": 5.729,
+        "end": 7.729
+      }
+    ],
+    "environment": "street with emergency vehicle traffic"
+  },
+  {
+    "clip_id": "clip_0102",
+    "file": "clip_0102.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 0.161,
+        "end": 1.761
+      },
+      {
+        "event": "phone_ring",
+        "start": 2.135,
+        "end": 3.135
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 4.528,
+        "end": 6.028
+      },
+      {
+        "event": "dog_bark",
+        "start": 6.773,
+        "end": 7.073
+      },
+      {
+        "event": "siren",
+        "start": 7.195,
+        "end": 9.695
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0103",
+    "file": "clip_0103.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 0.248,
+        "end": 1.448
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 3.567,
+        "end": 5.067
+      },
+      {
+        "event": "glass_break",
+        "start": 9.386,
+        "end": 9.786
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0104",
+    "file": "clip_0104.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.739,
+        "end": 2.239
+      },
+      {
+        "event": "dog_bark",
+        "start": 2.533,
+        "end": 2.833
+      },
+      {
+        "event": "phone_ring",
+        "start": 3.097,
+        "end": 4.097
+      },
+      {
+        "event": "glass_break",
+        "start": 5.259,
+        "end": 5.659
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0105",
+    "file": "clip_0105.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 4.532,
+        "end": 4.932
+      },
+      {
+        "event": "door_knock",
+        "start": 5.953,
+        "end": 6.553
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0106",
+    "file": "clip_0106.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 0.222,
+        "end": 0.822
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 1.755,
+        "end": 3.255
+      },
+      {
+        "event": "car_horn",
+        "start": 4.339,
+        "end": 4.939
+      },
+      {
+        "event": "siren",
+        "start": 7.12,
+        "end": 9.62
+      }
+    ],
+    "environment": "street with emergency vehicle traffic"
+  },
+  {
+    "clip_id": "clip_0107",
+    "file": "clip_0107.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 2.182,
+        "end": 3.182
+      },
+      {
+        "event": "door_knock",
+        "start": 4.766,
+        "end": 5.366
+      },
+      {
+        "event": "car_horn",
+        "start": 7.511,
+        "end": 8.111
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0108",
+    "file": "clip_0108.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 0.032,
+        "end": 1.232
+      },
+      {
+        "event": "dog_bark",
+        "start": 1.678,
+        "end": 1.978
+      },
+      {
+        "event": "glass_break",
+        "start": 5.666,
+        "end": 6.066
+      },
+      {
+        "event": "rain",
+        "start": 6.811,
+        "end": 8.811
+      }
+    ],
+    "environment": "home intrusion / disturbance scene"
+  },
+  {
+    "clip_id": "clip_0109",
+    "file": "clip_0109.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 0.794,
+        "end": 2.794
+      },
+      {
+        "event": "baby_cry",
+        "start": 4.874,
+        "end": 6.074
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0110",
+    "file": "clip_0110.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 4.705,
+        "end": 6.205
+      },
+      {
+        "event": "glass_break",
+        "start": 6.466,
+        "end": 6.866
+      },
+      {
+        "event": "baby_cry",
+        "start": 7.876,
+        "end": 9.076
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0111",
+    "file": "clip_0111.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 3.067,
+        "end": 5.067
+      },
+      {
+        "event": "footsteps",
+        "start": 5.291,
+        "end": 6.891
+      },
+      {
+        "event": "phone_ring",
+        "start": 7.465,
+        "end": 8.465
+      },
+      {
+        "event": "glass_break",
+        "start": 9.146,
+        "end": 9.546
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0112",
+    "file": "clip_0112.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 0.939,
+        "end": 2.139
+      },
+      {
+        "event": "siren",
+        "start": 6.988,
+        "end": 9.488
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0113",
+    "file": "clip_0113.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 0.082,
+        "end": 2.082
+      },
+      {
+        "event": "car_horn",
+        "start": 6.723,
+        "end": 7.323
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0114",
+    "file": "clip_0114.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 0.433,
+        "end": 1.033
+      },
+      {
+        "event": "footsteps",
+        "start": 5.671,
+        "end": 7.271
+      },
+      {
+        "event": "glass_break",
+        "start": 8.556,
+        "end": 8.956
+      },
+      {
+        "event": "door_knock",
+        "start": 8.996,
+        "end": 9.596
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0115",
+    "file": "clip_0115.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 1.63,
+        "end": 2.83
+      },
+      {
+        "event": "phone_ring",
+        "start": 3.851,
+        "end": 4.851
+      },
+      {
+        "event": "siren",
+        "start": 5.798,
+        "end": 8.298
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0116",
+    "file": "clip_0116.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 0.11,
+        "end": 0.51
+      },
+      {
+        "event": "rain",
+        "start": 1.596,
+        "end": 3.596
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 6.124,
+        "end": 7.624
+      },
+      {
+        "event": "phone_ring",
+        "start": 7.869,
+        "end": 8.869
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0117",
+    "file": "clip_0117.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.499,
+        "end": 2.499
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 6.296,
+        "end": 7.796
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0118",
+    "file": "clip_0118.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 2.396,
+        "end": 2.796
+      },
+      {
+        "event": "door_knock",
+        "start": 4.38,
+        "end": 4.98
+      },
+      {
+        "event": "rain",
+        "start": 5.007,
+        "end": 7.007
+      },
+      {
+        "event": "baby_cry",
+        "start": 8.589,
+        "end": 9.789
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0119",
+    "file": "clip_0119.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.207,
+        "end": 1.707
+      },
+      {
+        "event": "siren",
+        "start": 4.475,
+        "end": 6.975
+      },
+      {
+        "event": "rain",
+        "start": 7.696,
+        "end": 9.696
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0120",
+    "file": "clip_0120.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 1.108,
+        "end": 2.308
+      },
+      {
+        "event": "door_knock",
+        "start": 3.04,
+        "end": 3.64
+      },
+      {
+        "event": "car_horn",
+        "start": 8.036,
+        "end": 8.636
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0121",
+    "file": "clip_0121.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 0.153,
+        "end": 0.753
+      },
+      {
+        "event": "baby_cry",
+        "start": 7.293,
+        "end": 8.493
+      },
+      {
+        "event": "glass_break",
+        "start": 8.865,
+        "end": 9.265
+      },
+      {
+        "event": "dog_bark",
+        "start": 9.606,
+        "end": 9.906
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0122",
+    "file": "clip_0122.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 0.203,
+        "end": 1.803
+      },
+      {
+        "event": "siren",
+        "start": 2.436,
+        "end": 4.936
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.027,
+        "end": 6.527
+      },
+      {
+        "event": "dog_bark",
+        "start": 6.679,
+        "end": 6.979
+      },
+      {
+        "event": "rain",
+        "start": 7.719,
+        "end": 9.719
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0123",
+    "file": "clip_0123.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 0.327,
+        "end": 0.727
+      },
+      {
+        "event": "baby_cry",
+        "start": 1.34,
+        "end": 2.54
+      },
+      {
+        "event": "dog_bark",
+        "start": 4.136,
+        "end": 4.436
+      },
+      {
+        "event": "phone_ring",
+        "start": 5.073,
+        "end": 6.073
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 8.33,
+        "end": 9.83
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0124",
+    "file": "clip_0124.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.196,
+        "end": 2.196
+      },
+      {
+        "event": "dog_bark",
+        "start": 2.969,
+        "end": 3.269
+      },
+      {
+        "event": "baby_cry",
+        "start": 7.451,
+        "end": 8.651
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0125",
+    "file": "clip_0125.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 2.428,
+        "end": 2.728
+      },
+      {
+        "event": "phone_ring",
+        "start": 4.261,
+        "end": 5.261
+      },
+      {
+        "event": "door_knock",
+        "start": 8.366,
+        "end": 8.966
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0126",
+    "file": "clip_0126.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 2.208,
+        "end": 4.708
+      },
+      {
+        "event": "footsteps",
+        "start": 6.101,
+        "end": 7.701
+      },
+      {
+        "event": "rain",
+        "start": 7.901,
+        "end": 9.901
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0127",
+    "file": "clip_0127.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 2.051,
+        "end": 4.551
+      },
+      {
+        "event": "footsteps",
+        "start": 5.19,
+        "end": 6.79
+      },
+      {
+        "event": "baby_cry",
+        "start": 7.107,
+        "end": 8.307
+      },
+      {
+        "event": "car_horn",
+        "start": 8.579,
+        "end": 9.179
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0128",
+    "file": "clip_0128.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.189,
+        "end": 1.689
+      },
+      {
+        "event": "siren",
+        "start": 5.976,
+        "end": 8.476
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0129",
+    "file": "clip_0129.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 1.077,
+        "end": 1.377
+      },
+      {
+        "event": "glass_break",
+        "start": 3.246,
+        "end": 3.646
+      },
+      {
+        "event": "phone_ring",
+        "start": 4.042,
+        "end": 5.042
+      },
+      {
+        "event": "door_knock",
+        "start": 6.912,
+        "end": 7.512
+      },
+      {
+        "event": "baby_cry",
+        "start": 7.737,
+        "end": 8.937
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0130",
+    "file": "clip_0130.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 0.8,
+        "end": 1.4
+      },
+      {
+        "event": "glass_break",
+        "start": 6.997,
+        "end": 7.397
+      },
+      {
+        "event": "door_knock",
+        "start": 8.6,
+        "end": 9.2
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0131",
+    "file": "clip_0131.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 0.112,
+        "end": 1.112
+      },
+      {
+        "event": "siren",
+        "start": 1.263,
+        "end": 3.763
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 4.326,
+        "end": 5.826
+      },
+      {
+        "event": "rain",
+        "start": 6.54,
+        "end": 8.54
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0132",
+    "file": "clip_0132.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 1.402,
+        "end": 1.702
+      },
+      {
+        "event": "siren",
+        "start": 2.249,
+        "end": 4.749
+      },
+      {
+        "event": "phone_ring",
+        "start": 5.321,
+        "end": 6.321
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0133",
+    "file": "clip_0133.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 1.844,
+        "end": 3.344
+      },
+      {
+        "event": "dog_bark",
+        "start": 8.547,
+        "end": 8.847
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0134",
+    "file": "clip_0134.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 0.759,
+        "end": 2.359
+      },
+      {
+        "event": "car_horn",
+        "start": 3.037,
+        "end": 3.637
+      },
+      {
+        "event": "dog_bark",
+        "start": 4.061,
+        "end": 4.361
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.187,
+        "end": 6.687
+      },
+      {
+        "event": "rain",
+        "start": 7.403,
+        "end": 9.403
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0135",
+    "file": "clip_0135.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 0.574,
+        "end": 1.774
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 4.177,
+        "end": 5.677
+      },
+      {
+        "event": "phone_ring",
+        "start": 7.68,
+        "end": 8.68
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0136",
+    "file": "clip_0136.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 2.425,
+        "end": 3.625
+      },
+      {
+        "event": "door_knock",
+        "start": 4.569,
+        "end": 5.169
+      },
+      {
+        "event": "car_horn",
+        "start": 5.354,
+        "end": 5.954
+      },
+      {
+        "event": "siren",
+        "start": 6.698,
+        "end": 9.198
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0137",
+    "file": "clip_0137.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 0.571,
+        "end": 0.871
+      },
+      {
+        "event": "phone_ring",
+        "start": 1.663,
+        "end": 2.663
+      },
+      {
+        "event": "car_horn",
+        "start": 3.776,
+        "end": 4.376
+      },
+      {
+        "event": "rain",
+        "start": 7.991,
+        "end": 9.991
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0138",
+    "file": "clip_0138.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.944,
+        "end": 2.944
+      },
+      {
+        "event": "siren",
+        "start": 4.568,
+        "end": 7.068
+      },
+      {
+        "event": "door_knock",
+        "start": 9.048,
+        "end": 9.648
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0139",
+    "file": "clip_0139.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 4.543,
+        "end": 6.543
+      },
+      {
+        "event": "glass_break",
+        "start": 6.836,
+        "end": 7.236
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0140",
+    "file": "clip_0140.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 3.015,
+        "end": 4.515
+      },
+      {
+        "event": "baby_cry",
+        "start": 6.348,
+        "end": 7.548
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0141",
+    "file": "clip_0141.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 0.051,
+        "end": 0.351
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 4.014,
+        "end": 5.514
+      },
+      {
+        "event": "phone_ring",
+        "start": 7.227,
+        "end": 8.227
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0142",
+    "file": "clip_0142.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.762,
+        "end": 2.262
+      },
+      {
+        "event": "footsteps",
+        "start": 3.332,
+        "end": 4.932
+      },
+      {
+        "event": "siren",
+        "start": 5.234,
+        "end": 7.734
+      },
+      {
+        "event": "door_knock",
+        "start": 7.875,
+        "end": 8.475
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0143",
+    "file": "clip_0143.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 0.72,
+        "end": 1.32
+      },
+      {
+        "event": "door_knock",
+        "start": 6.751,
+        "end": 7.351
+      },
+      {
+        "event": "baby_cry",
+        "start": 7.46,
+        "end": 8.66
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0144",
+    "file": "clip_0144.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 0.866,
+        "end": 3.366
+      },
+      {
+        "event": "phone_ring",
+        "start": 7.021,
+        "end": 8.021
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0145",
+    "file": "clip_0145.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 0.157,
+        "end": 0.757
+      },
+      {
+        "event": "glass_break",
+        "start": 3.935,
+        "end": 4.335
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.876,
+        "end": 7.376
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0146",
+    "file": "clip_0146.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 0.879,
+        "end": 2.079
+      },
+      {
+        "event": "rain",
+        "start": 2.716,
+        "end": 4.716
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0147",
+    "file": "clip_0147.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 0.827,
+        "end": 2.827
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 4.048,
+        "end": 5.548
+      },
+      {
+        "event": "door_knock",
+        "start": 5.975,
+        "end": 6.575
+      },
+      {
+        "event": "siren",
+        "start": 7.358,
+        "end": 9.858
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0148",
+    "file": "clip_0148.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 0.949,
+        "end": 1.249
+      },
+      {
+        "event": "door_knock",
+        "start": 6.786,
+        "end": 7.386
+      },
+      {
+        "event": "rain",
+        "start": 7.76,
+        "end": 9.76
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0149",
+    "file": "clip_0149.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 0.251,
+        "end": 0.851
+      },
+      {
+        "event": "dog_bark",
+        "start": 2.155,
+        "end": 2.455
+      },
+      {
+        "event": "footsteps",
+        "start": 3.6,
+        "end": 5.2
+      },
+      {
+        "event": "glass_break",
+        "start": 8.096,
+        "end": 8.496
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0150",
+    "file": "clip_0150.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 0.212,
+        "end": 1.812
+      },
+      {
+        "event": "siren",
+        "start": 6.693,
+        "end": 9.193
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0151",
+    "file": "clip_0151.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 2.18,
+        "end": 2.78
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 2.835,
+        "end": 4.335
+      },
+      {
+        "event": "glass_break",
+        "start": 4.65,
+        "end": 5.05
+      },
+      {
+        "event": "rain",
+        "start": 7.576,
+        "end": 9.576
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0152",
+    "file": "clip_0152.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 4.782,
+        "end": 5.082
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.184,
+        "end": 6.684
+      },
+      {
+        "event": "glass_break",
+        "start": 6.884,
+        "end": 7.284
+      },
+      {
+        "event": "siren",
+        "start": 7.288,
+        "end": 9.788
+      }
+    ],
+    "environment": "home intrusion / disturbance scene"
+  },
+  {
+    "clip_id": "clip_0153",
+    "file": "clip_0153.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 3.117,
+        "end": 4.717
+      },
+      {
+        "event": "phone_ring",
+        "start": 4.736,
+        "end": 5.736
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0154",
+    "file": "clip_0154.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.391,
+        "end": 1.891
+      },
+      {
+        "event": "baby_cry",
+        "start": 2.832,
+        "end": 4.032
+      },
+      {
+        "event": "door_knock",
+        "start": 5.159,
+        "end": 5.759
+      },
+      {
+        "event": "rain",
+        "start": 7.382,
+        "end": 9.382
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0155",
+    "file": "clip_0155.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 0.691,
+        "end": 2.691
+      },
+      {
+        "event": "siren",
+        "start": 2.725,
+        "end": 5.225
+      },
+      {
+        "event": "glass_break",
+        "start": 6.653,
+        "end": 7.053
+      },
+      {
+        "event": "car_horn",
+        "start": 7.883,
+        "end": 8.483
+      }
+    ],
+    "environment": "street with emergency vehicle traffic"
+  },
+  {
+    "clip_id": "clip_0156",
+    "file": "clip_0156.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 0.36,
+        "end": 0.96
+      },
+      {
+        "event": "glass_break",
+        "start": 1.773,
+        "end": 2.173
+      },
+      {
+        "event": "siren",
+        "start": 4.084,
+        "end": 6.584
+      },
+      {
+        "event": "rain",
+        "start": 7.582,
+        "end": 9.582
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0157",
+    "file": "clip_0157.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 0.119,
+        "end": 0.719
+      },
+      {
+        "event": "door_knock",
+        "start": 1.938,
+        "end": 2.538
+      },
+      {
+        "event": "siren",
+        "start": 2.692,
+        "end": 5.192
+      },
+      {
+        "event": "footsteps",
+        "start": 6.243,
+        "end": 7.843
+      },
+      {
+        "event": "baby_cry",
+        "start": 8.647,
+        "end": 9.847
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0158",
+    "file": "clip_0158.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 3.656,
+        "end": 4.256
+      },
+      {
+        "event": "footsteps",
+        "start": 5.632,
+        "end": 7.232
+      },
+      {
+        "event": "glass_break",
+        "start": 9.054,
+        "end": 9.454
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0159",
+    "file": "clip_0159.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 2.797,
+        "end": 3.397
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 6.615,
+        "end": 8.115
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0160",
+    "file": "clip_0160.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 2.814,
+        "end": 5.314
+      },
+      {
+        "event": "door_knock",
+        "start": 6.43,
+        "end": 7.03
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0161",
+    "file": "clip_0161.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 0.436,
+        "end": 2.936
+      },
+      {
+        "event": "dog_bark",
+        "start": 4.944,
+        "end": 5.244
+      },
+      {
+        "event": "phone_ring",
+        "start": 5.638,
+        "end": 6.638
+      },
+      {
+        "event": "glass_break",
+        "start": 6.939,
+        "end": 7.339
+      },
+      {
+        "event": "footsteps",
+        "start": 8.046,
+        "end": 9.646
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0162",
+    "file": "clip_0162.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 1.305,
+        "end": 1.905
+      },
+      {
+        "event": "baby_cry",
+        "start": 3.821,
+        "end": 5.021
+      },
+      {
+        "event": "rain",
+        "start": 5.106,
+        "end": 7.106
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0163",
+    "file": "clip_0163.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 1.213,
+        "end": 1.613
+      },
+      {
+        "event": "rain",
+        "start": 5.387,
+        "end": 7.387
+      },
+      {
+        "event": "car_horn",
+        "start": 9.397,
+        "end": 9.997
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0164",
+    "file": "clip_0164.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 2.987,
+        "end": 4.187
+      },
+      {
+        "event": "door_knock",
+        "start": 6.157,
+        "end": 6.757
+      },
+      {
+        "event": "car_horn",
+        "start": 7.009,
+        "end": 7.609
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0165",
+    "file": "clip_0165.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 1.41,
+        "end": 2.91
+      },
+      {
+        "event": "rain",
+        "start": 4.619,
+        "end": 6.619
+      },
+      {
+        "event": "siren",
+        "start": 7.348,
+        "end": 9.848
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0166",
+    "file": "clip_0166.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 0.678,
+        "end": 1.678
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 3.712,
+        "end": 5.212
+      },
+      {
+        "event": "door_knock",
+        "start": 9.393,
+        "end": 9.993
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0167",
+    "file": "clip_0167.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 0.776,
+        "end": 1.976
+      },
+      {
+        "event": "rain",
+        "start": 2.829,
+        "end": 4.829
+      },
+      {
+        "event": "siren",
+        "start": 4.922,
+        "end": 7.422
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 7.569,
+        "end": 9.069
+      },
+      {
+        "event": "glass_break",
+        "start": 9.128,
+        "end": 9.528
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0168",
+    "file": "clip_0168.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 0.175,
+        "end": 0.475
+      },
+      {
+        "event": "car_horn",
+        "start": 0.641,
+        "end": 1.241
+      },
+      {
+        "event": "phone_ring",
+        "start": 4.893,
+        "end": 5.893
+      },
+      {
+        "event": "rain",
+        "start": 6.433,
+        "end": 8.433
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0169",
+    "file": "clip_0169.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 0.475,
+        "end": 2.975
+      },
+      {
+        "event": "glass_break",
+        "start": 3.42,
+        "end": 3.82
+      },
+      {
+        "event": "baby_cry",
+        "start": 4.092,
+        "end": 5.292
+      },
+      {
+        "event": "rain",
+        "start": 6.081,
+        "end": 8.081
+      },
+      {
+        "event": "footsteps",
+        "start": 8.202,
+        "end": 9.802
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0170",
+    "file": "clip_0170.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 0.202,
+        "end": 1.402
+      },
+      {
+        "event": "car_horn",
+        "start": 2.207,
+        "end": 2.807
+      },
+      {
+        "event": "door_knock",
+        "start": 5.826,
+        "end": 6.426
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0171",
+    "file": "clip_0171.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 1.019,
+        "end": 1.619
+      },
+      {
+        "event": "phone_ring",
+        "start": 4.302,
+        "end": 5.302
+      },
+      {
+        "event": "glass_break",
+        "start": 7.916,
+        "end": 8.316
+      },
+      {
+        "event": "baby_cry",
+        "start": 8.52,
+        "end": 9.72
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0172",
+    "file": "clip_0172.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 0.423,
+        "end": 1.423
+      },
+      {
+        "event": "dog_bark",
+        "start": 2.528,
+        "end": 2.828
+      },
+      {
+        "event": "rain",
+        "start": 4.253,
+        "end": 6.253
+      },
+      {
+        "event": "glass_break",
+        "start": 6.317,
+        "end": 6.717
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 8.353,
+        "end": 9.853
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0173",
+    "file": "clip_0173.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 0.116,
+        "end": 2.616
+      },
+      {
+        "event": "footsteps",
+        "start": 3.465,
+        "end": 5.065
+      },
+      {
+        "event": "baby_cry",
+        "start": 5.231,
+        "end": 6.431
+      },
+      {
+        "event": "rain",
+        "start": 6.625,
+        "end": 8.625
+      },
+      {
+        "event": "phone_ring",
+        "start": 8.762,
+        "end": 9.762
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0174",
+    "file": "clip_0174.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 1.067,
+        "end": 3.067
+      },
+      {
+        "event": "baby_cry",
+        "start": 3.434,
+        "end": 4.634
+      },
+      {
+        "event": "door_knock",
+        "start": 5.652,
+        "end": 6.252
+      },
+      {
+        "event": "dog_bark",
+        "start": 7.714,
+        "end": 8.014
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 8.229,
+        "end": 9.729
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0175",
+    "file": "clip_0175.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 2.352,
+        "end": 3.352
+      },
+      {
+        "event": "car_horn",
+        "start": 3.572,
+        "end": 4.172
+      },
+      {
+        "event": "siren",
+        "start": 5.263,
+        "end": 7.763
+      },
+      {
+        "event": "dog_bark",
+        "start": 8.395,
+        "end": 8.695
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0176",
+    "file": "clip_0176.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 0.89,
+        "end": 2.49
+      },
+      {
+        "event": "glass_break",
+        "start": 6.614,
+        "end": 7.014
+      },
+      {
+        "event": "door_knock",
+        "start": 9.012,
+        "end": 9.612
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0177",
+    "file": "clip_0177.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 2.698,
+        "end": 5.198
+      },
+      {
+        "event": "car_horn",
+        "start": 8.445,
+        "end": 9.045
+      }
+    ],
+    "environment": "street with emergency vehicle traffic"
+  },
+  {
+    "clip_id": "clip_0178",
+    "file": "clip_0178.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 1.447,
+        "end": 3.947
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 4.4,
+        "end": 5.9
+      },
+      {
+        "event": "car_horn",
+        "start": 8.023,
+        "end": 8.623
+      }
+    ],
+    "environment": "street with emergency vehicle traffic"
+  },
+  {
+    "clip_id": "clip_0179",
+    "file": "clip_0179.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 2.69,
+        "end": 3.29
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.403,
+        "end": 6.903
+      },
+      {
+        "event": "footsteps",
+        "start": 8.099,
+        "end": 9.699
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0180",
+    "file": "clip_0180.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 0.961,
+        "end": 1.361
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 2.432,
+        "end": 3.932
+      },
+      {
+        "event": "door_knock",
+        "start": 4.006,
+        "end": 4.606
+      },
+      {
+        "event": "siren",
+        "start": 6.201,
+        "end": 8.701
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0181",
+    "file": "clip_0181.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 2.491,
+        "end": 3.691
+      },
+      {
+        "event": "car_horn",
+        "start": 5.863,
+        "end": 6.463
+      },
+      {
+        "event": "phone_ring",
+        "start": 8.274,
+        "end": 9.274
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0182",
+    "file": "clip_0182.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 2.321,
+        "end": 2.721
+      },
+      {
+        "event": "dog_bark",
+        "start": 3.776,
+        "end": 4.076
+      },
+      {
+        "event": "baby_cry",
+        "start": 4.838,
+        "end": 6.038
+      },
+      {
+        "event": "footsteps",
+        "start": 6.18,
+        "end": 7.78
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0183",
+    "file": "clip_0183.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 0.739,
+        "end": 1.339
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 3.884,
+        "end": 5.384
+      },
+      {
+        "event": "siren",
+        "start": 5.912,
+        "end": 8.412
+      }
+    ],
+    "environment": "street with emergency vehicle traffic"
+  },
+  {
+    "clip_id": "clip_0184",
+    "file": "clip_0184.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 1.779,
+        "end": 2.079
+      },
+      {
+        "event": "glass_break",
+        "start": 4.747,
+        "end": 5.147
+      },
+      {
+        "event": "car_horn",
+        "start": 9.068,
+        "end": 9.668
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0185",
+    "file": "clip_0185.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 2.93,
+        "end": 3.53
+      },
+      {
+        "event": "baby_cry",
+        "start": 4.128,
+        "end": 5.328
+      },
+      {
+        "event": "footsteps",
+        "start": 7.869,
+        "end": 9.469
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0186",
+    "file": "clip_0186.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 1.356,
+        "end": 3.356
+      },
+      {
+        "event": "glass_break",
+        "start": 6.87,
+        "end": 7.27
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0187",
+    "file": "clip_0187.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 2.371,
+        "end": 3.571
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 3.617,
+        "end": 5.117
+      },
+      {
+        "event": "footsteps",
+        "start": 6.747,
+        "end": 8.347
+      },
+      {
+        "event": "glass_break",
+        "start": 8.719,
+        "end": 9.119
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0188",
+    "file": "clip_0188.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 2.433,
+        "end": 3.033
+      },
+      {
+        "event": "baby_cry",
+        "start": 4.165,
+        "end": 5.365
+      },
+      {
+        "event": "siren",
+        "start": 5.584,
+        "end": 8.084
+      }
+    ],
+    "environment": "street with emergency vehicle traffic"
+  },
+  {
+    "clip_id": "clip_0189",
+    "file": "clip_0189.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.766,
+        "end": 2.766
+      },
+      {
+        "event": "footsteps",
+        "start": 4.88,
+        "end": 6.48
+      },
+      {
+        "event": "door_knock",
+        "start": 7.119,
+        "end": 7.719
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0190",
+    "file": "clip_0190.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.467,
+        "end": 1.967
+      },
+      {
+        "event": "footsteps",
+        "start": 4.898,
+        "end": 6.498
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0191",
+    "file": "clip_0191.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 0.695,
+        "end": 1.295
+      },
+      {
+        "event": "footsteps",
+        "start": 1.883,
+        "end": 3.483
+      },
+      {
+        "event": "car_horn",
+        "start": 5.448,
+        "end": 6.048
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 7.222,
+        "end": 8.722
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0192",
+    "file": "clip_0192.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 3.288,
+        "end": 4.888
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.089,
+        "end": 6.589
+      },
+      {
+        "event": "car_horn",
+        "start": 8.354,
+        "end": 8.954
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0193",
+    "file": "clip_0193.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 2.268,
+        "end": 3.868
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 5.247,
+        "end": 6.747
+      },
+      {
+        "event": "baby_cry",
+        "start": 8.084,
+        "end": 9.284
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0194",
+    "file": "clip_0194.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 1.745,
+        "end": 2.945
+      },
+      {
+        "event": "rain",
+        "start": 3.168,
+        "end": 5.168
+      },
+      {
+        "event": "phone_ring",
+        "start": 6.719,
+        "end": 7.719
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0195",
+    "file": "clip_0195.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 0.246,
+        "end": 2.246
+      },
+      {
+        "event": "door_knock",
+        "start": 3.232,
+        "end": 3.832
+      },
+      {
+        "event": "glass_break",
+        "start": 6.299,
+        "end": 6.699
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 7.263,
+        "end": 8.763
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0196",
+    "file": "clip_0196.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 2.124,
+        "end": 2.724
+      },
+      {
+        "event": "baby_cry",
+        "start": 3.656,
+        "end": 4.856
+      },
+      {
+        "event": "car_horn",
+        "start": 6.139,
+        "end": 6.739
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 8.351,
+        "end": 9.851
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0197",
+    "file": "clip_0197.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 0.746,
+        "end": 1.346
+      },
+      {
+        "event": "dog_bark",
+        "start": 2.295,
+        "end": 2.595
+      },
+      {
+        "event": "siren",
+        "start": 4.314,
+        "end": 6.814
+      },
+      {
+        "event": "baby_cry",
+        "start": 8.046,
+        "end": 9.246
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0198",
+    "file": "clip_0198.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 0.264,
+        "end": 1.464
+      },
+      {
+        "event": "door_knock",
+        "start": 2.131,
+        "end": 2.731
+      },
+      {
+        "event": "rain",
+        "start": 4.08,
+        "end": 6.08
+      },
+      {
+        "event": "glass_break",
+        "start": 8.173,
+        "end": 8.573
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0199",
+    "file": "clip_0199.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 0.166,
+        "end": 0.766
+      },
+      {
+        "event": "rain",
+        "start": 5.625,
+        "end": 7.625
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0200",
+    "file": "clip_0200.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 0.065,
+        "end": 0.665
+      },
+      {
+        "event": "car_horn",
+        "start": 2.471,
+        "end": 3.071
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0201",
+    "file": "clip_0201.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 0.471,
+        "end": 1.071
+      },
+      {
+        "event": "footsteps",
+        "start": 2.644,
+        "end": 4.244
+      },
+      {
+        "event": "baby_cry",
+        "start": 4.98,
+        "end": 6.18
+      },
+      {
+        "event": "dog_bark",
+        "start": 6.28,
+        "end": 6.58
+      },
+      {
+        "event": "glass_break",
+        "start": 9.467,
+        "end": 9.867
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0202",
+    "file": "clip_0202.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "footsteps",
+        "start": 0.34,
+        "end": 1.94
+      },
+      {
+        "event": "glass_break",
+        "start": 2.535,
+        "end": 2.935
+      },
+      {
+        "event": "baby_cry",
+        "start": 3.902,
+        "end": 5.102
+      },
+      {
+        "event": "phone_ring",
+        "start": 5.249,
+        "end": 6.249
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0203",
+    "file": "clip_0203.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 2.764,
+        "end": 3.364
+      },
+      {
+        "event": "dog_bark",
+        "start": 8.837,
+        "end": 9.137
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0204",
+    "file": "clip_0204.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 0.088,
+        "end": 2.088
+      },
+      {
+        "event": "footsteps",
+        "start": 2.725,
+        "end": 4.325
+      },
+      {
+        "event": "siren",
+        "start": 5.144,
+        "end": 7.644
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0205",
+    "file": "clip_0205.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "phone_ring",
+        "start": 1.051,
+        "end": 2.051
+      },
+      {
+        "event": "rain",
+        "start": 6.89,
+        "end": 8.89
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0206",
+    "file": "clip_0206.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 0.744,
+        "end": 1.344
+      },
+      {
+        "event": "dog_bark",
+        "start": 5.74,
+        "end": 6.04
+      },
+      {
+        "event": "rain",
+        "start": 6.625,
+        "end": 8.625
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0207",
+    "file": "clip_0207.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 0.278,
+        "end": 1.778
+      },
+      {
+        "event": "glass_break",
+        "start": 2.119,
+        "end": 2.519
+      },
+      {
+        "event": "car_horn",
+        "start": 4.019,
+        "end": 4.619
+      },
+      {
+        "event": "dog_bark",
+        "start": 9.155,
+        "end": 9.455
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0208",
+    "file": "clip_0208.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "keyboard_typing",
+        "start": 3.165,
+        "end": 4.665
+      },
+      {
+        "event": "door_knock",
+        "start": 8.221,
+        "end": 8.821
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0209",
+    "file": "clip_0209.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "baby_cry",
+        "start": 0.101,
+        "end": 1.301
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 3.578,
+        "end": 5.078
+      },
+      {
+        "event": "dog_bark",
+        "start": 6.932,
+        "end": 7.232
+      },
+      {
+        "event": "rain",
+        "start": 7.777,
+        "end": 9.777
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0210",
+    "file": "clip_0210.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "car_horn",
+        "start": 1.979,
+        "end": 2.579
+      },
+      {
+        "event": "door_knock",
+        "start": 2.936,
+        "end": 3.536
+      },
+      {
+        "event": "footsteps",
+        "start": 5.578,
+        "end": 7.178
+      },
+      {
+        "event": "dog_bark",
+        "start": 7.225,
+        "end": 7.525
+      },
+      {
+        "event": "glass_break",
+        "start": 9.023,
+        "end": 9.423
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0211",
+    "file": "clip_0211.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 1.428,
+        "end": 2.028
+      },
+      {
+        "event": "footsteps",
+        "start": 3.089,
+        "end": 4.689
+      },
+      {
+        "event": "glass_break",
+        "start": 5.424,
+        "end": 5.824
+      },
+      {
+        "event": "keyboard_typing",
+        "start": 6.719,
+        "end": 8.219
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0212",
+    "file": "clip_0212.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 3.265,
+        "end": 3.865
+      },
+      {
+        "event": "phone_ring",
+        "start": 5.256,
+        "end": 6.256
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0213",
+    "file": "clip_0213.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 1.091,
+        "end": 3.591
+      },
+      {
+        "event": "baby_cry",
+        "start": 4.928,
+        "end": 6.128
+      },
+      {
+        "event": "glass_break",
+        "start": 6.349,
+        "end": 6.749
+      },
+      {
+        "event": "footsteps",
+        "start": 7.036,
+        "end": 8.636
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0214",
+    "file": "clip_0214.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "rain",
+        "start": 3.079,
+        "end": 5.079
+      },
+      {
+        "event": "phone_ring",
+        "start": 6.521,
+        "end": 7.521
+      }
+    ],
+    "environment": "outdoors in the rain"
+  },
+  {
+    "clip_id": "clip_0215",
+    "file": "clip_0215.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "dog_bark",
+        "start": 1.743,
+        "end": 2.043
+      },
+      {
+        "event": "door_knock",
+        "start": 3.865,
+        "end": 4.465
+      },
+      {
+        "event": "phone_ring",
+        "start": 7.469,
+        "end": 8.469
+      }
+    ],
+    "environment": "street / outdoor urban scene"
+  },
+  {
+    "clip_id": "clip_0216",
+    "file": "clip_0216.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "door_knock",
+        "start": 1.028,
+        "end": 1.628
+      },
+      {
+        "event": "siren",
+        "start": 3.403,
+        "end": 5.903
+      }
+    ],
+    "environment": "home / domestic indoor scene"
+  },
+  {
+    "clip_id": "clip_0217",
+    "file": "clip_0217.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 0.834,
+        "end": 1.234
+      },
+      {
+        "event": "siren",
+        "start": 1.324,
+        "end": 3.824
+      },
+      {
+        "event": "door_knock",
+        "start": 6.206,
+        "end": 6.806
+      },
+      {
+        "event": "car_horn",
+        "start": 6.809,
+        "end": 7.409
+      }
+    ],
+    "environment": "street with emergency vehicle traffic"
+  },
+  {
+    "clip_id": "clip_0218",
+    "file": "clip_0218.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "glass_break",
+        "start": 1.749,
+        "end": 2.149
+      },
+      {
+        "event": "door_knock",
+        "start": 2.443,
+        "end": 3.043
+      },
+      {
+        "event": "phone_ring",
+        "start": 3.894,
+        "end": 4.894
+      },
+      {
+        "event": "siren",
+        "start": 5.999,
+        "end": 8.499
+      }
+    ],
+    "environment": "office / indoor workspace"
+  },
+  {
+    "clip_id": "clip_0219",
+    "file": "clip_0219.wav",
+    "duration": 10.0,
+    "timeline": [
+      {
+        "event": "siren",
+        "start": 3.073,
+        "end": 5.573
+      },
+      {
+        "event": "car_horn",
+        "start": 7.659,
+        "end": 8.259
+      }
+    ],
+    "environment": "street with emergency vehicle traffic"
+  }
+]

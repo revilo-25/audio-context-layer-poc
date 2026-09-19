@@ -1,0 +1,3565 @@
+[
+  {
+    "clip_id": "clip_0000",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a car horn, a dog barking, a phone ringing, a siren, keyboard typing",
+    "id": "qa_00000"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_00001"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "what",
+    "question": "Is there keyboard typing in this clip?",
+    "answer": "yes",
+    "id": "qa_00002"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "what",
+    "question": "Is there rain in this clip?",
+    "answer": "no",
+    "id": "qa_00003"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "1",
+    "id": "qa_00004"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "counting",
+    "question": "How many times does a dog barking occur in this clip?",
+    "answer": "1",
+    "id": "qa_00005"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_00006"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "counting",
+    "question": "How many times does a phone ringing occur in this clip?",
+    "answer": "1",
+    "id": "qa_00007"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_00008"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "0",
+    "id": "qa_00009"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a car horn",
+    "id": "qa_00010"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a siren",
+    "id": "qa_00011"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "temporal",
+    "question": "Does a car horn occur before or after a dog barking?",
+    "answer": "before",
+    "id": "qa_00012"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "temporal",
+    "question": "What happens immediately after a car horn?",
+    "answer": "a dog barking",
+    "id": "qa_00013"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "causal",
+    "question": "Why might a car horn be occurring in this recording?",
+    "answer": "a driver signaling another vehicle or pedestrian",
+    "id": "qa_00014"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "causal",
+    "question": "Why might a dog barking be occurring in this recording?",
+    "answer": "a dog reacting to a nearby stimulus (person, animal, or noise)",
+    "id": "qa_00015"
+  },
+  {
+    "clip_id": "clip_0000",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a car horn, a dog barking, keyboard typing, a phone ringing, a siren, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_00016"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a phone ringing, footsteps, rain",
+    "id": "qa_00033"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "outdoors in the rain",
+    "id": "qa_00034"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "what",
+    "question": "Is there rain in this clip?",
+    "answer": "yes",
+    "id": "qa_00035"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "what",
+    "question": "Is there a dog barking in this clip?",
+    "answer": "no",
+    "id": "qa_00036"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "1",
+    "id": "qa_00037"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "counting",
+    "question": "How many times does a phone ringing occur in this clip?",
+    "answer": "1",
+    "id": "qa_00038"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "1",
+    "id": "qa_00039"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "0",
+    "id": "qa_00040"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a phone ringing",
+    "id": "qa_00041"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "rain",
+    "id": "qa_00042"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "temporal",
+    "question": "Does a phone ringing occur before or after footsteps?",
+    "answer": "before",
+    "id": "qa_00043"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "temporal",
+    "question": "What happens immediately after a phone ringing?",
+    "answer": "footsteps",
+    "id": "qa_00044"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "causal",
+    "question": "Why might footsteps be occurring in this recording?",
+    "answer": "a person walking through or near the scene",
+    "id": "qa_00045"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "causal",
+    "question": "Why might a phone ringing be occurring in this recording?",
+    "answer": "an incoming call on a nearby phone",
+    "id": "qa_00046"
+  },
+  {
+    "clip_id": "clip_0002",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains footsteps, a phone ringing, rain, a combination typically associated with a outdoors in the rain",
+    "id": "qa_00047"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a baby crying, a car horn, a door knock, footsteps, keyboard typing",
+    "id": "qa_00078"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_00079"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "what",
+    "question": "Is there footsteps in this clip?",
+    "answer": "yes",
+    "id": "qa_00080"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "what",
+    "question": "Is there a dog barking in this clip?",
+    "answer": "no",
+    "id": "qa_00081"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "1",
+    "id": "qa_00082"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "1",
+    "id": "qa_00083"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "counting",
+    "question": "How many times does a door knock occur in this clip?",
+    "answer": "1",
+    "id": "qa_00084"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "1",
+    "id": "qa_00085"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_00086"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "0",
+    "id": "qa_00087"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a door knock",
+    "id": "qa_00088"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a car horn",
+    "id": "qa_00089"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "temporal",
+    "question": "Does a door knock occur before or after keyboard typing?",
+    "answer": "before",
+    "id": "qa_00090"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "temporal",
+    "question": "What happens immediately after a door knock?",
+    "answer": "keyboard typing",
+    "id": "qa_00091"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "causal",
+    "question": "Why might a baby crying be occurring in this recording?",
+    "answer": "an infant expressing distress or need",
+    "id": "qa_00092"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "causal",
+    "question": "Why might a car horn be occurring in this recording?",
+    "answer": "a driver signaling another vehicle or pedestrian",
+    "id": "qa_00093"
+  },
+  {
+    "clip_id": "clip_0005",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a baby crying, a car horn, a door knock, footsteps, keyboard typing, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_00094"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a dog barking, keyboard typing, rain",
+    "id": "qa_00111"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_00112"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "what",
+    "question": "Is there a dog barking in this clip?",
+    "answer": "yes",
+    "id": "qa_00113"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "what",
+    "question": "Is there a siren in this clip?",
+    "answer": "no",
+    "id": "qa_00114"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "counting",
+    "question": "How many times does a dog barking occur in this clip?",
+    "answer": "1",
+    "id": "qa_00115"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_00116"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "1",
+    "id": "qa_00117"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "0",
+    "id": "qa_00118"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a dog barking",
+    "id": "qa_00119"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "keyboard typing",
+    "id": "qa_00120"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "temporal",
+    "question": "Does a dog barking occur before or after keyboard typing?",
+    "answer": "before",
+    "id": "qa_00121"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "temporal",
+    "question": "What happens immediately after a dog barking?",
+    "answer": "keyboard typing",
+    "id": "qa_00122"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "causal",
+    "question": "Why might a dog barking be occurring in this recording?",
+    "answer": "a dog reacting to a nearby stimulus (person, animal, or noise)",
+    "id": "qa_00123"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "causal",
+    "question": "Why might keyboard typing be occurring in this recording?",
+    "answer": "someone typing on a computer keyboard",
+    "id": "qa_00124"
+  },
+  {
+    "clip_id": "clip_0007",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a dog barking, keyboard typing, rain, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_00125"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a baby crying, a car horn, a phone ringing, footsteps, rain",
+    "id": "qa_00224"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_00225"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "what",
+    "question": "Is there a car horn in this clip?",
+    "answer": "yes",
+    "id": "qa_00226"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "what",
+    "question": "Is there glass breaking in this clip?",
+    "answer": "no",
+    "id": "qa_00227"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "1",
+    "id": "qa_00228"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "1",
+    "id": "qa_00229"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "1",
+    "id": "qa_00230"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "counting",
+    "question": "How many times does a phone ringing occur in this clip?",
+    "answer": "1",
+    "id": "qa_00231"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "1",
+    "id": "qa_00232"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "0",
+    "id": "qa_00233"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a phone ringing",
+    "id": "qa_00234"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "footsteps",
+    "id": "qa_00235"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "temporal",
+    "question": "Does a baby crying occur before or after footsteps?",
+    "answer": "before",
+    "id": "qa_00236"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "temporal",
+    "question": "What happens immediately after a baby crying?",
+    "answer": "footsteps",
+    "id": "qa_00237"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "causal",
+    "question": "Why might a baby crying be occurring in this recording?",
+    "answer": "an infant expressing distress or need",
+    "id": "qa_00238"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "causal",
+    "question": "Why might a car horn be occurring in this recording?",
+    "answer": "a driver signaling another vehicle or pedestrian",
+    "id": "qa_00239"
+  },
+  {
+    "clip_id": "clip_0014",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a baby crying, a car horn, footsteps, a phone ringing, rain, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_00240"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a dog barking, a door knock, keyboard typing",
+    "id": "qa_00757"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_00758"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "what",
+    "question": "Is there a dog barking in this clip?",
+    "answer": "yes",
+    "id": "qa_00759"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "what",
+    "question": "Is there a car horn in this clip?",
+    "answer": "no",
+    "id": "qa_00760"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "counting",
+    "question": "How many times does a dog barking occur in this clip?",
+    "answer": "1",
+    "id": "qa_00761"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "counting",
+    "question": "How many times does a door knock occur in this clip?",
+    "answer": "1",
+    "id": "qa_00762"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_00763"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "0",
+    "id": "qa_00764"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a door knock",
+    "id": "qa_00765"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "keyboard typing",
+    "id": "qa_00766"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "temporal",
+    "question": "Does a door knock occur before or after keyboard typing?",
+    "answer": "before",
+    "id": "qa_00767"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "temporal",
+    "question": "What happens immediately after a door knock?",
+    "answer": "keyboard typing",
+    "id": "qa_00768"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "causal",
+    "question": "Why might a dog barking be occurring in this recording?",
+    "answer": "a dog reacting to a nearby stimulus (person, animal, or noise)",
+    "id": "qa_00769"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "causal",
+    "question": "Why might a door knock be occurring in this recording?",
+    "answer": "someone requesting entry at a door",
+    "id": "qa_00770"
+  },
+  {
+    "clip_id": "clip_0049",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a dog barking, a door knock, keyboard typing, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_00771"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a dog barking, a siren, keyboard typing",
+    "id": "qa_00882"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_00883"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "what",
+    "question": "Is there keyboard typing in this clip?",
+    "answer": "yes",
+    "id": "qa_00884"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "what",
+    "question": "Is there a baby crying in this clip?",
+    "answer": "no",
+    "id": "qa_00885"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "counting",
+    "question": "How many times does a dog barking occur in this clip?",
+    "answer": "1",
+    "id": "qa_00886"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_00887"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_00888"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "0",
+    "id": "qa_00889"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a dog barking",
+    "id": "qa_00890"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "keyboard typing",
+    "id": "qa_00891"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "temporal",
+    "question": "Does a siren occur before or after keyboard typing?",
+    "answer": "before",
+    "id": "qa_00892"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "temporal",
+    "question": "What happens immediately after a siren?",
+    "answer": "keyboard typing",
+    "id": "qa_00893"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "causal",
+    "question": "Why might a dog barking be occurring in this recording?",
+    "answer": "a dog reacting to a nearby stimulus (person, animal, or noise)",
+    "id": "qa_00894"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "causal",
+    "question": "Why might keyboard typing be occurring in this recording?",
+    "answer": "someone typing on a computer keyboard",
+    "id": "qa_00895"
+  },
+  {
+    "clip_id": "clip_0057",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a dog barking, keyboard typing, a siren, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_00896"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a baby crying, a car horn, a dog barking, a phone ringing",
+    "id": "qa_00929"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_00930"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "what",
+    "question": "Is there a phone ringing in this clip?",
+    "answer": "yes",
+    "id": "qa_00931"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "what",
+    "question": "Is there keyboard typing in this clip?",
+    "answer": "no",
+    "id": "qa_00932"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "1",
+    "id": "qa_00933"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "1",
+    "id": "qa_00934"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "counting",
+    "question": "How many times does a dog barking occur in this clip?",
+    "answer": "1",
+    "id": "qa_00935"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "counting",
+    "question": "How many times does a phone ringing occur in this clip?",
+    "answer": "1",
+    "id": "qa_00936"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "0",
+    "id": "qa_00937"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a dog barking",
+    "id": "qa_00938"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a car horn",
+    "id": "qa_00939"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "temporal",
+    "question": "Does a dog barking occur before or after a baby crying?",
+    "answer": "before",
+    "id": "qa_00940"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "temporal",
+    "question": "What happens immediately after a dog barking?",
+    "answer": "a baby crying",
+    "id": "qa_00941"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "causal",
+    "question": "Why might a baby crying be occurring in this recording?",
+    "answer": "an infant expressing distress or need",
+    "id": "qa_00942"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "causal",
+    "question": "Why might a car horn be occurring in this recording?",
+    "answer": "a driver signaling another vehicle or pedestrian",
+    "id": "qa_00943"
+  },
+  {
+    "clip_id": "clip_0060",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a baby crying, a car horn, a dog barking, a phone ringing, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_00944"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a car horn, a door knock, keyboard typing, rain",
+    "id": "qa_00961"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_00962"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "what",
+    "question": "Is there a car horn in this clip?",
+    "answer": "yes",
+    "id": "qa_00963"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "what",
+    "question": "Is there a phone ringing in this clip?",
+    "answer": "no",
+    "id": "qa_00964"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "1",
+    "id": "qa_00965"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "counting",
+    "question": "How many times does a door knock occur in this clip?",
+    "answer": "1",
+    "id": "qa_00966"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_00967"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "1",
+    "id": "qa_00968"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "0",
+    "id": "qa_00969"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a door knock",
+    "id": "qa_00970"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "keyboard typing",
+    "id": "qa_00971"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "temporal",
+    "question": "Does a door knock occur before or after keyboard typing?",
+    "answer": "before",
+    "id": "qa_00972"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "temporal",
+    "question": "What happens immediately after a door knock?",
+    "answer": "keyboard typing",
+    "id": "qa_00973"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "causal",
+    "question": "Why might a car horn be occurring in this recording?",
+    "answer": "a driver signaling another vehicle or pedestrian",
+    "id": "qa_00974"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "causal",
+    "question": "Why might a door knock be occurring in this recording?",
+    "answer": "someone requesting entry at a door",
+    "id": "qa_00975"
+  },
+  {
+    "clip_id": "clip_0062",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a car horn, a door knock, keyboard typing, rain, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_00976"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a baby crying, a siren, glass breaking, keyboard typing, rain",
+    "id": "qa_00977"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "outdoors in the rain",
+    "id": "qa_00978"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "what",
+    "question": "Is there glass breaking in this clip?",
+    "answer": "yes",
+    "id": "qa_00979"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "what",
+    "question": "Is there a door knock in this clip?",
+    "answer": "no",
+    "id": "qa_00980"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "1",
+    "id": "qa_00981"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "1",
+    "id": "qa_00982"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_00983"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "1",
+    "id": "qa_00984"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_00985"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "0",
+    "id": "qa_00986"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "keyboard typing",
+    "id": "qa_00987"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "glass breaking",
+    "id": "qa_00988"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "temporal",
+    "question": "Does a siren occur before or after a baby crying?",
+    "answer": "before",
+    "id": "qa_00989"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "temporal",
+    "question": "What happens immediately after a siren?",
+    "answer": "a baby crying",
+    "id": "qa_00990"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "causal",
+    "question": "Why might a baby crying be occurring in this recording?",
+    "answer": "an infant expressing distress or need",
+    "id": "qa_00991"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "causal",
+    "question": "Why might glass breaking be occurring in this recording?",
+    "answer": "an object breaking a glass surface, e.g. a window",
+    "id": "qa_00992"
+  },
+  {
+    "clip_id": "clip_0063",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a baby crying, glass breaking, keyboard typing, rain, a siren, a combination typically associated with a outdoors in the rain",
+    "id": "qa_00993"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a baby crying, a door knock, a siren, keyboard typing",
+    "id": "qa_01022"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "home / domestic indoor scene",
+    "id": "qa_01023"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "what",
+    "question": "Is there keyboard typing in this clip?",
+    "answer": "yes",
+    "id": "qa_01024"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "what",
+    "question": "Is there a car horn in this clip?",
+    "answer": "no",
+    "id": "qa_01025"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "1",
+    "id": "qa_01026"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "counting",
+    "question": "How many times does a door knock occur in this clip?",
+    "answer": "1",
+    "id": "qa_01027"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_01028"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_01029"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "0",
+    "id": "qa_01030"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a baby crying",
+    "id": "qa_01031"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a siren",
+    "id": "qa_01032"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "temporal",
+    "question": "Does keyboard typing occur before or after a siren?",
+    "answer": "before",
+    "id": "qa_01033"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "temporal",
+    "question": "What happens immediately after keyboard typing?",
+    "answer": "a siren",
+    "id": "qa_01034"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "causal",
+    "question": "Why might a baby crying be occurring in this recording?",
+    "answer": "an infant expressing distress or need",
+    "id": "qa_01035"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "causal",
+    "question": "Why might a door knock be occurring in this recording?",
+    "answer": "someone requesting entry at a door",
+    "id": "qa_01036"
+  },
+  {
+    "clip_id": "clip_0066",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a baby crying, a door knock, keyboard typing, a siren, a combination typically associated with a home / domestic indoor scene",
+    "id": "qa_01037"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a siren, rain",
+    "id": "qa_01101"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "outdoors in the rain",
+    "id": "qa_01102"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "what",
+    "question": "Is there a siren in this clip?",
+    "answer": "yes",
+    "id": "qa_01103"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "what",
+    "question": "Is there a car horn in this clip?",
+    "answer": "no",
+    "id": "qa_01104"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "1",
+    "id": "qa_01105"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_01106"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "0",
+    "id": "qa_01107"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "rain",
+    "id": "qa_01108"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a siren",
+    "id": "qa_01109"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "temporal",
+    "question": "Does rain occur before or after a siren?",
+    "answer": "before",
+    "id": "qa_01110"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "temporal",
+    "question": "What happens immediately after rain?",
+    "answer": "a siren",
+    "id": "qa_01111"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "causal",
+    "question": "Why might rain be occurring in this recording?",
+    "answer": "precipitation falling in the recorded environment",
+    "id": "qa_01112"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "causal",
+    "question": "Why might a siren be occurring in this recording?",
+    "answer": "an emergency vehicle passing through the area",
+    "id": "qa_01113"
+  },
+  {
+    "clip_id": "clip_0071",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains rain, a siren, a combination typically associated with a outdoors in the rain",
+    "id": "qa_01114"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a phone ringing, a siren, keyboard typing",
+    "id": "qa_01180"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "office / indoor workspace",
+    "id": "qa_01181"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "what",
+    "question": "Is there a siren in this clip?",
+    "answer": "yes",
+    "id": "qa_01182"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "what",
+    "question": "Is there a door knock in this clip?",
+    "answer": "no",
+    "id": "qa_01183"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_01184"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "counting",
+    "question": "How many times does a phone ringing occur in this clip?",
+    "answer": "1",
+    "id": "qa_01185"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_01186"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "0",
+    "id": "qa_01187"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a siren",
+    "id": "qa_01188"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "keyboard typing",
+    "id": "qa_01189"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "temporal",
+    "question": "Does a siren occur before or after a phone ringing?",
+    "answer": "before",
+    "id": "qa_01190"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "temporal",
+    "question": "What happens immediately after a siren?",
+    "answer": "a phone ringing",
+    "id": "qa_01191"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "causal",
+    "question": "Why might keyboard typing be occurring in this recording?",
+    "answer": "someone typing on a computer keyboard",
+    "id": "qa_01192"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "causal",
+    "question": "Why might a phone ringing be occurring in this recording?",
+    "answer": "an incoming call on a nearby phone",
+    "id": "qa_01193"
+  },
+  {
+    "clip_id": "clip_0076",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains keyboard typing, a phone ringing, a siren, a combination typically associated with a office / indoor workspace",
+    "id": "qa_01194"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "keyboard typing, rain",
+    "id": "qa_01195"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "outdoors in the rain",
+    "id": "qa_01196"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "what",
+    "question": "Is there keyboard typing in this clip?",
+    "answer": "yes",
+    "id": "qa_01197"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "what",
+    "question": "Is there a car horn in this clip?",
+    "answer": "no",
+    "id": "qa_01198"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_01199"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "1",
+    "id": "qa_01200"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "0",
+    "id": "qa_01201"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "rain",
+    "id": "qa_01202"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "keyboard typing",
+    "id": "qa_01203"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "temporal",
+    "question": "Does rain occur before or after keyboard typing?",
+    "answer": "before",
+    "id": "qa_01204"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "temporal",
+    "question": "What happens immediately after rain?",
+    "answer": "keyboard typing",
+    "id": "qa_01205"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "causal",
+    "question": "Why might keyboard typing be occurring in this recording?",
+    "answer": "someone typing on a computer keyboard",
+    "id": "qa_01206"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "causal",
+    "question": "Why might rain be occurring in this recording?",
+    "answer": "precipitation falling in the recorded environment",
+    "id": "qa_01207"
+  },
+  {
+    "clip_id": "clip_0077",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains keyboard typing, rain, a combination typically associated with a outdoors in the rain",
+    "id": "qa_01208"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a car horn, a door knock, footsteps",
+    "id": "qa_01209"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_01210"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "what",
+    "question": "Is there a car horn in this clip?",
+    "answer": "yes",
+    "id": "qa_01211"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "what",
+    "question": "Is there keyboard typing in this clip?",
+    "answer": "no",
+    "id": "qa_01212"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "1",
+    "id": "qa_01213"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "counting",
+    "question": "How many times does a door knock occur in this clip?",
+    "answer": "1",
+    "id": "qa_01214"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "1",
+    "id": "qa_01215"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "0",
+    "id": "qa_01216"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a door knock",
+    "id": "qa_01217"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a car horn",
+    "id": "qa_01218"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "temporal",
+    "question": "Does a door knock occur before or after footsteps?",
+    "answer": "before",
+    "id": "qa_01219"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "temporal",
+    "question": "What happens immediately after a door knock?",
+    "answer": "footsteps",
+    "id": "qa_01220"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "causal",
+    "question": "Why might a car horn be occurring in this recording?",
+    "answer": "a driver signaling another vehicle or pedestrian",
+    "id": "qa_01221"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "causal",
+    "question": "Why might a door knock be occurring in this recording?",
+    "answer": "someone requesting entry at a door",
+    "id": "qa_01222"
+  },
+  {
+    "clip_id": "clip_0078",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a car horn, a door knock, footsteps, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_01223"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a baby crying, a siren, keyboard typing",
+    "id": "qa_01239"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "office / indoor workspace",
+    "id": "qa_01240"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "what",
+    "question": "Is there a siren in this clip?",
+    "answer": "yes",
+    "id": "qa_01241"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "what",
+    "question": "Is there a car horn in this clip?",
+    "answer": "no",
+    "id": "qa_01242"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "1",
+    "id": "qa_01243"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_01244"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_01245"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "0",
+    "id": "qa_01246"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "keyboard typing",
+    "id": "qa_01247"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a baby crying",
+    "id": "qa_01248"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "temporal",
+    "question": "Does a siren occur before or after a baby crying?",
+    "answer": "before",
+    "id": "qa_01249"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "temporal",
+    "question": "What happens immediately after a siren?",
+    "answer": "a baby crying",
+    "id": "qa_01250"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "causal",
+    "question": "Why might a baby crying be occurring in this recording?",
+    "answer": "an infant expressing distress or need",
+    "id": "qa_01251"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "causal",
+    "question": "Why might keyboard typing be occurring in this recording?",
+    "answer": "someone typing on a computer keyboard",
+    "id": "qa_01252"
+  },
+  {
+    "clip_id": "clip_0080",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a baby crying, keyboard typing, a siren, a combination typically associated with a office / indoor workspace",
+    "id": "qa_01253"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a siren, glass breaking",
+    "id": "qa_01531"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street with emergency vehicle traffic",
+    "id": "qa_01532"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "what",
+    "question": "Is there glass breaking in this clip?",
+    "answer": "yes",
+    "id": "qa_01533"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "what",
+    "question": "Is there a door knock in this clip?",
+    "answer": "no",
+    "id": "qa_01534"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "1",
+    "id": "qa_01535"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_01536"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "0",
+    "id": "qa_01537"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a siren",
+    "id": "qa_01538"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "glass breaking",
+    "id": "qa_01539"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "temporal",
+    "question": "Does a siren occur before or after glass breaking?",
+    "answer": "before",
+    "id": "qa_01540"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "temporal",
+    "question": "What happens immediately after a siren?",
+    "answer": "glass breaking",
+    "id": "qa_01541"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "causal",
+    "question": "Why might glass breaking be occurring in this recording?",
+    "answer": "an object breaking a glass surface, e.g. a window",
+    "id": "qa_01542"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "causal",
+    "question": "Why might a siren be occurring in this recording?",
+    "answer": "an emergency vehicle passing through the area",
+    "id": "qa_01543"
+  },
+  {
+    "clip_id": "clip_0099",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains glass breaking, a siren, a combination typically associated with a street with emergency vehicle traffic",
+    "id": "qa_01544"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a door knock, glass breaking",
+    "id": "qa_01625"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "home / domestic indoor scene",
+    "id": "qa_01626"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "what",
+    "question": "Is there glass breaking in this clip?",
+    "answer": "yes",
+    "id": "qa_01627"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "what",
+    "question": "Is there a dog barking in this clip?",
+    "answer": "no",
+    "id": "qa_01628"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "counting",
+    "question": "How many times does a door knock occur in this clip?",
+    "answer": "1",
+    "id": "qa_01629"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "1",
+    "id": "qa_01630"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "0",
+    "id": "qa_01631"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "glass breaking",
+    "id": "qa_01632"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a door knock",
+    "id": "qa_01633"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "temporal",
+    "question": "Does glass breaking occur before or after a door knock?",
+    "answer": "before",
+    "id": "qa_01634"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "temporal",
+    "question": "What happens immediately after glass breaking?",
+    "answer": "a door knock",
+    "id": "qa_01635"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "causal",
+    "question": "Why might a door knock be occurring in this recording?",
+    "answer": "someone requesting entry at a door",
+    "id": "qa_01636"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "causal",
+    "question": "Why might glass breaking be occurring in this recording?",
+    "answer": "an object breaking a glass surface, e.g. a window",
+    "id": "qa_01637"
+  },
+  {
+    "clip_id": "clip_0105",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a door knock, glass breaking, a combination typically associated with a home / domestic indoor scene",
+    "id": "qa_01638"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a phone ringing, keyboard typing",
+    "id": "qa_01806"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "office / indoor workspace",
+    "id": "qa_01807"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "what",
+    "question": "Is there a phone ringing in this clip?",
+    "answer": "yes",
+    "id": "qa_01808"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "what",
+    "question": "Is there a dog barking in this clip?",
+    "answer": "no",
+    "id": "qa_01809"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_01810"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "counting",
+    "question": "How many times does a phone ringing occur in this clip?",
+    "answer": "1",
+    "id": "qa_01811"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "0",
+    "id": "qa_01812"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a phone ringing",
+    "id": "qa_01813"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "keyboard typing",
+    "id": "qa_01814"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "temporal",
+    "question": "Does a phone ringing occur before or after keyboard typing?",
+    "answer": "before",
+    "id": "qa_01815"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "temporal",
+    "question": "What happens immediately after a phone ringing?",
+    "answer": "keyboard typing",
+    "id": "qa_01816"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "causal",
+    "question": "Why might keyboard typing be occurring in this recording?",
+    "answer": "someone typing on a computer keyboard",
+    "id": "qa_01817"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "causal",
+    "question": "Why might a phone ringing be occurring in this recording?",
+    "answer": "an incoming call on a nearby phone",
+    "id": "qa_01818"
+  },
+  {
+    "clip_id": "clip_0117",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains keyboard typing, a phone ringing, a combination typically associated with a office / indoor workspace",
+    "id": "qa_01819"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a baby crying, a car horn, a dog barking, glass breaking",
+    "id": "qa_01866"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_01867"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "what",
+    "question": "Is there a car horn in this clip?",
+    "answer": "yes",
+    "id": "qa_01868"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "what",
+    "question": "Is there a phone ringing in this clip?",
+    "answer": "no",
+    "id": "qa_01869"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "1",
+    "id": "qa_01870"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "1",
+    "id": "qa_01871"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "counting",
+    "question": "How many times does a dog barking occur in this clip?",
+    "answer": "1",
+    "id": "qa_01872"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "1",
+    "id": "qa_01873"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "0",
+    "id": "qa_01874"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a car horn",
+    "id": "qa_01875"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a dog barking",
+    "id": "qa_01876"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "temporal",
+    "question": "Does a car horn occur before or after a dog barking?",
+    "answer": "before",
+    "id": "qa_01877"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "temporal",
+    "question": "What happens immediately after a car horn?",
+    "answer": "a dog barking",
+    "id": "qa_01878"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "causal",
+    "question": "Why might a baby crying be occurring in this recording?",
+    "answer": "an infant expressing distress or need",
+    "id": "qa_01879"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "causal",
+    "question": "Why might a car horn be occurring in this recording?",
+    "answer": "a driver signaling another vehicle or pedestrian",
+    "id": "qa_01880"
+  },
+  {
+    "clip_id": "clip_0121",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a baby crying, a car horn, a dog barking, glass breaking, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_01881"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a baby crying, a car horn, a siren, footsteps",
+    "id": "qa_01961"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_01962"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "what",
+    "question": "Is there a siren in this clip?",
+    "answer": "yes",
+    "id": "qa_01963"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "what",
+    "question": "Is there a dog barking in this clip?",
+    "answer": "no",
+    "id": "qa_01964"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "1",
+    "id": "qa_01965"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "1",
+    "id": "qa_01966"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "1",
+    "id": "qa_01967"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_01968"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "0",
+    "id": "qa_01969"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a siren",
+    "id": "qa_01970"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a car horn",
+    "id": "qa_01971"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "temporal",
+    "question": "Does a baby crying occur before or after a car horn?",
+    "answer": "before",
+    "id": "qa_01972"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "temporal",
+    "question": "What happens immediately after a baby crying?",
+    "answer": "a car horn",
+    "id": "qa_01973"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "causal",
+    "question": "Why might a baby crying be occurring in this recording?",
+    "answer": "an infant expressing distress or need",
+    "id": "qa_01974"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "causal",
+    "question": "Why might a car horn be occurring in this recording?",
+    "answer": "a driver signaling another vehicle or pedestrian",
+    "id": "qa_01975"
+  },
+  {
+    "clip_id": "clip_0127",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a baby crying, a car horn, footsteps, a siren, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_01976"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a car horn, a dog barking, footsteps, keyboard typing, rain",
+    "id": "qa_02068"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_02069"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "what",
+    "question": "Is there a car horn in this clip?",
+    "answer": "yes",
+    "id": "qa_02070"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "what",
+    "question": "Is there glass breaking in this clip?",
+    "answer": "no",
+    "id": "qa_02071"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "1",
+    "id": "qa_02072"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "counting",
+    "question": "How many times does a dog barking occur in this clip?",
+    "answer": "1",
+    "id": "qa_02073"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "1",
+    "id": "qa_02074"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_02075"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "1",
+    "id": "qa_02076"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "0",
+    "id": "qa_02077"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "footsteps",
+    "id": "qa_02078"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "rain",
+    "id": "qa_02079"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "temporal",
+    "question": "Does a car horn occur before or after a dog barking?",
+    "answer": "before",
+    "id": "qa_02080"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "temporal",
+    "question": "What happens immediately after a car horn?",
+    "answer": "a dog barking",
+    "id": "qa_02081"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "causal",
+    "question": "Why might a car horn be occurring in this recording?",
+    "answer": "a driver signaling another vehicle or pedestrian",
+    "id": "qa_02082"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "causal",
+    "question": "Why might a dog barking be occurring in this recording?",
+    "answer": "a dog reacting to a nearby stimulus (person, animal, or noise)",
+    "id": "qa_02083"
+  },
+  {
+    "clip_id": "clip_0134",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a car horn, a dog barking, footsteps, keyboard typing, rain, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_02084"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a car horn, a dog barking, a phone ringing, rain",
+    "id": "qa_02116"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_02117"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "what",
+    "question": "Is there a phone ringing in this clip?",
+    "answer": "yes",
+    "id": "qa_02118"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "what",
+    "question": "Is there glass breaking in this clip?",
+    "answer": "no",
+    "id": "qa_02119"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "1",
+    "id": "qa_02120"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "counting",
+    "question": "How many times does a dog barking occur in this clip?",
+    "answer": "1",
+    "id": "qa_02121"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "counting",
+    "question": "How many times does a phone ringing occur in this clip?",
+    "answer": "1",
+    "id": "qa_02122"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "1",
+    "id": "qa_02123"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "0",
+    "id": "qa_02124"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a dog barking",
+    "id": "qa_02125"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "rain",
+    "id": "qa_02126"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "temporal",
+    "question": "Does a dog barking occur before or after rain?",
+    "answer": "before",
+    "id": "qa_02127"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "temporal",
+    "question": "What happens immediately after a dog barking?",
+    "answer": "rain",
+    "id": "qa_02128"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "causal",
+    "question": "Why might a car horn be occurring in this recording?",
+    "answer": "a driver signaling another vehicle or pedestrian",
+    "id": "qa_02129"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "causal",
+    "question": "Why might a dog barking be occurring in this recording?",
+    "answer": "a dog reacting to a nearby stimulus (person, animal, or noise)",
+    "id": "qa_02130"
+  },
+  {
+    "clip_id": "clip_0137",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a car horn, a dog barking, a phone ringing, rain, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_02131"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a baby crying, keyboard typing",
+    "id": "qa_02161"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "office / indoor workspace",
+    "id": "qa_02162"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "what",
+    "question": "Is there keyboard typing in this clip?",
+    "answer": "yes",
+    "id": "qa_02163"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "what",
+    "question": "Is there footsteps in this clip?",
+    "answer": "no",
+    "id": "qa_02164"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "1",
+    "id": "qa_02165"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_02166"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "counting",
+    "question": "How many times does a dog barking occur in this clip?",
+    "answer": "0",
+    "id": "qa_02167"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "keyboard typing",
+    "id": "qa_02168"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a baby crying",
+    "id": "qa_02169"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "temporal",
+    "question": "Does keyboard typing occur before or after a baby crying?",
+    "answer": "before",
+    "id": "qa_02170"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "temporal",
+    "question": "What happens immediately after keyboard typing?",
+    "answer": "a baby crying",
+    "id": "qa_02171"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "causal",
+    "question": "Why might a baby crying be occurring in this recording?",
+    "answer": "an infant expressing distress or need",
+    "id": "qa_02172"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "causal",
+    "question": "Why might keyboard typing be occurring in this recording?",
+    "answer": "someone typing on a computer keyboard",
+    "id": "qa_02173"
+  },
+  {
+    "clip_id": "clip_0140",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a baby crying, keyboard typing, a combination typically associated with a office / indoor workspace",
+    "id": "qa_02174"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a dog barking, a door knock, footsteps, glass breaking",
+    "id": "qa_02295"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_02296"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "what",
+    "question": "Is there a door knock in this clip?",
+    "answer": "yes",
+    "id": "qa_02297"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "what",
+    "question": "Is there a car horn in this clip?",
+    "answer": "no",
+    "id": "qa_02298"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "counting",
+    "question": "How many times does a dog barking occur in this clip?",
+    "answer": "1",
+    "id": "qa_02299"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "counting",
+    "question": "How many times does a door knock occur in this clip?",
+    "answer": "1",
+    "id": "qa_02300"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "1",
+    "id": "qa_02301"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "1",
+    "id": "qa_02302"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "0",
+    "id": "qa_02303"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a door knock",
+    "id": "qa_02304"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "glass breaking",
+    "id": "qa_02305"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "temporal",
+    "question": "Does a dog barking occur before or after glass breaking?",
+    "answer": "before",
+    "id": "qa_02306"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "temporal",
+    "question": "What happens immediately after a dog barking?",
+    "answer": "glass breaking",
+    "id": "qa_02307"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "causal",
+    "question": "Why might a dog barking be occurring in this recording?",
+    "answer": "a dog reacting to a nearby stimulus (person, animal, or noise)",
+    "id": "qa_02308"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "causal",
+    "question": "Why might a door knock be occurring in this recording?",
+    "answer": "someone requesting entry at a door",
+    "id": "qa_02309"
+  },
+  {
+    "clip_id": "clip_0149",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a dog barking, a door knock, footsteps, glass breaking, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_02310"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a phone ringing, footsteps",
+    "id": "qa_02357"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_02358"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "what",
+    "question": "Is there footsteps in this clip?",
+    "answer": "yes",
+    "id": "qa_02359"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "what",
+    "question": "Is there a dog barking in this clip?",
+    "answer": "no",
+    "id": "qa_02360"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "1",
+    "id": "qa_02361"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "counting",
+    "question": "How many times does a phone ringing occur in this clip?",
+    "answer": "1",
+    "id": "qa_02362"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "counting",
+    "question": "How many times does a door knock occur in this clip?",
+    "answer": "0",
+    "id": "qa_02363"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "footsteps",
+    "id": "qa_02364"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a phone ringing",
+    "id": "qa_02365"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "temporal",
+    "question": "Does footsteps occur before or after a phone ringing?",
+    "answer": "before",
+    "id": "qa_02366"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "temporal",
+    "question": "What happens immediately after footsteps?",
+    "answer": "a phone ringing",
+    "id": "qa_02367"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "causal",
+    "question": "Why might footsteps be occurring in this recording?",
+    "answer": "a person walking through or near the scene",
+    "id": "qa_02368"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "causal",
+    "question": "Why might a phone ringing be occurring in this recording?",
+    "answer": "an incoming call on a nearby phone",
+    "id": "qa_02369"
+  },
+  {
+    "clip_id": "clip_0153",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains footsteps, a phone ringing, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_02370"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a siren, keyboard typing, rain",
+    "id": "qa_02541"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "outdoors in the rain",
+    "id": "qa_02542"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "what",
+    "question": "Is there a siren in this clip?",
+    "answer": "yes",
+    "id": "qa_02543"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "what",
+    "question": "Is there a door knock in this clip?",
+    "answer": "no",
+    "id": "qa_02544"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_02545"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "1",
+    "id": "qa_02546"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_02547"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "0",
+    "id": "qa_02548"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "keyboard typing",
+    "id": "qa_02549"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a siren",
+    "id": "qa_02550"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "temporal",
+    "question": "Does keyboard typing occur before or after a siren?",
+    "answer": "before",
+    "id": "qa_02551"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "temporal",
+    "question": "What happens immediately after keyboard typing?",
+    "answer": "a siren",
+    "id": "qa_02552"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "causal",
+    "question": "Why might keyboard typing be occurring in this recording?",
+    "answer": "someone typing on a computer keyboard",
+    "id": "qa_02553"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "causal",
+    "question": "Why might rain be occurring in this recording?",
+    "answer": "precipitation falling in the recorded environment",
+    "id": "qa_02554"
+  },
+  {
+    "clip_id": "clip_0165",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains keyboard typing, rain, a siren, a combination typically associated with a outdoors in the rain",
+    "id": "qa_02555"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a door knock, a phone ringing, keyboard typing",
+    "id": "qa_02556"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "office / indoor workspace",
+    "id": "qa_02557"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "what",
+    "question": "Is there keyboard typing in this clip?",
+    "answer": "yes",
+    "id": "qa_02558"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "what",
+    "question": "Is there rain in this clip?",
+    "answer": "no",
+    "id": "qa_02559"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "counting",
+    "question": "How many times does a door knock occur in this clip?",
+    "answer": "1",
+    "id": "qa_02560"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_02561"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "counting",
+    "question": "How many times does a phone ringing occur in this clip?",
+    "answer": "1",
+    "id": "qa_02562"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "0",
+    "id": "qa_02563"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a phone ringing",
+    "id": "qa_02564"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a door knock",
+    "id": "qa_02565"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "temporal",
+    "question": "Does a phone ringing occur before or after keyboard typing?",
+    "answer": "before",
+    "id": "qa_02566"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "temporal",
+    "question": "What happens immediately after a phone ringing?",
+    "answer": "keyboard typing",
+    "id": "qa_02567"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "causal",
+    "question": "Why might a door knock be occurring in this recording?",
+    "answer": "someone requesting entry at a door",
+    "id": "qa_02568"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "causal",
+    "question": "Why might keyboard typing be occurring in this recording?",
+    "answer": "someone typing on a computer keyboard",
+    "id": "qa_02569"
+  },
+  {
+    "clip_id": "clip_0166",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a door knock, keyboard typing, a phone ringing, a combination typically associated with a office / indoor workspace",
+    "id": "qa_02570"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a dog barking, a phone ringing, glass breaking, keyboard typing, rain",
+    "id": "qa_02652"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "office / indoor workspace",
+    "id": "qa_02653"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "what",
+    "question": "Is there keyboard typing in this clip?",
+    "answer": "yes",
+    "id": "qa_02654"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "what",
+    "question": "Is there a door knock in this clip?",
+    "answer": "no",
+    "id": "qa_02655"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "counting",
+    "question": "How many times does a dog barking occur in this clip?",
+    "answer": "1",
+    "id": "qa_02656"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "1",
+    "id": "qa_02657"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_02658"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "counting",
+    "question": "How many times does a phone ringing occur in this clip?",
+    "answer": "1",
+    "id": "qa_02659"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "counting",
+    "question": "How many times does rain occur in this clip?",
+    "answer": "1",
+    "id": "qa_02660"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "0",
+    "id": "qa_02661"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a phone ringing",
+    "id": "qa_02662"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "keyboard typing",
+    "id": "qa_02663"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "temporal",
+    "question": "Does glass breaking occur before or after keyboard typing?",
+    "answer": "before",
+    "id": "qa_02664"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "temporal",
+    "question": "What happens immediately after glass breaking?",
+    "answer": "keyboard typing",
+    "id": "qa_02665"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "causal",
+    "question": "Why might a dog barking be occurring in this recording?",
+    "answer": "a dog reacting to a nearby stimulus (person, animal, or noise)",
+    "id": "qa_02666"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "causal",
+    "question": "Why might glass breaking be occurring in this recording?",
+    "answer": "an object breaking a glass surface, e.g. a window",
+    "id": "qa_02667"
+  },
+  {
+    "clip_id": "clip_0172",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a dog barking, glass breaking, keyboard typing, a phone ringing, rain, a combination typically associated with a office / indoor workspace",
+    "id": "qa_02668"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a door knock, a siren, glass breaking, keyboard typing",
+    "id": "qa_02778"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "office / indoor workspace",
+    "id": "qa_02779"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "what",
+    "question": "Is there a siren in this clip?",
+    "answer": "yes",
+    "id": "qa_02780"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "what",
+    "question": "Is there a dog barking in this clip?",
+    "answer": "no",
+    "id": "qa_02781"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "counting",
+    "question": "How many times does a door knock occur in this clip?",
+    "answer": "1",
+    "id": "qa_02782"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "1",
+    "id": "qa_02783"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "1",
+    "id": "qa_02784"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_02785"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "0",
+    "id": "qa_02786"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "glass breaking",
+    "id": "qa_02787"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a siren",
+    "id": "qa_02788"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "temporal",
+    "question": "Does a door knock occur before or after a siren?",
+    "answer": "before",
+    "id": "qa_02789"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "temporal",
+    "question": "What happens immediately after a door knock?",
+    "answer": "a siren",
+    "id": "qa_02790"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "causal",
+    "question": "Why might a door knock be occurring in this recording?",
+    "answer": "someone requesting entry at a door",
+    "id": "qa_02791"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "causal",
+    "question": "Why might glass breaking be occurring in this recording?",
+    "answer": "an object breaking a glass surface, e.g. a window",
+    "id": "qa_02792"
+  },
+  {
+    "clip_id": "clip_0180",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a door knock, glass breaking, keyboard typing, a siren, a combination typically associated with a office / indoor workspace",
+    "id": "qa_02793"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a baby crying, a phone ringing, footsteps, glass breaking",
+    "id": "qa_03114"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "street / outdoor urban scene",
+    "id": "qa_03115"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "what",
+    "question": "Is there a baby crying in this clip?",
+    "answer": "yes",
+    "id": "qa_03116"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "what",
+    "question": "Is there rain in this clip?",
+    "answer": "no",
+    "id": "qa_03117"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "counting",
+    "question": "How many times does a baby crying occur in this clip?",
+    "answer": "1",
+    "id": "qa_03118"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "counting",
+    "question": "How many times does footsteps occur in this clip?",
+    "answer": "1",
+    "id": "qa_03119"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "1",
+    "id": "qa_03120"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "counting",
+    "question": "How many times does a phone ringing occur in this clip?",
+    "answer": "1",
+    "id": "qa_03121"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "counting",
+    "question": "How many times does a car horn occur in this clip?",
+    "answer": "0",
+    "id": "qa_03122"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "footsteps",
+    "id": "qa_03123"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a phone ringing",
+    "id": "qa_03124"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "temporal",
+    "question": "Does footsteps occur before or after a phone ringing?",
+    "answer": "before",
+    "id": "qa_03125"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "temporal",
+    "question": "What happens immediately after footsteps?",
+    "answer": "a phone ringing",
+    "id": "qa_03126"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "causal",
+    "question": "Why might a baby crying be occurring in this recording?",
+    "answer": "an infant expressing distress or need",
+    "id": "qa_03127"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "causal",
+    "question": "Why might footsteps be occurring in this recording?",
+    "answer": "a person walking through or near the scene",
+    "id": "qa_03128"
+  },
+  {
+    "clip_id": "clip_0202",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a baby crying, footsteps, glass breaking, a phone ringing, a combination typically associated with a street / outdoor urban scene",
+    "id": "qa_03129"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a door knock, a siren",
+    "id": "qa_03326"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "home / domestic indoor scene",
+    "id": "qa_03327"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "what",
+    "question": "Is there a door knock in this clip?",
+    "answer": "yes",
+    "id": "qa_03328"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "what",
+    "question": "Is there a dog barking in this clip?",
+    "answer": "no",
+    "id": "qa_03329"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "counting",
+    "question": "How many times does a door knock occur in this clip?",
+    "answer": "1",
+    "id": "qa_03330"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_03331"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "counting",
+    "question": "How many times does a dog barking occur in this clip?",
+    "answer": "0",
+    "id": "qa_03332"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "a door knock",
+    "id": "qa_03333"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a siren",
+    "id": "qa_03334"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "temporal",
+    "question": "Does a door knock occur before or after a siren?",
+    "answer": "before",
+    "id": "qa_03335"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "temporal",
+    "question": "What happens immediately after a door knock?",
+    "answer": "a siren",
+    "id": "qa_03336"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "causal",
+    "question": "Why might a door knock be occurring in this recording?",
+    "answer": "someone requesting entry at a door",
+    "id": "qa_03337"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "causal",
+    "question": "Why might a siren be occurring in this recording?",
+    "answer": "an emergency vehicle passing through the area",
+    "id": "qa_03338"
+  },
+  {
+    "clip_id": "clip_0216",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a door knock, a siren, a combination typically associated with a home / domestic indoor scene",
+    "id": "qa_03339"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "what",
+    "question": "What sounds are present in this audio clip?",
+    "answer": "a door knock, a phone ringing, a siren, glass breaking",
+    "id": "qa_03356"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "what",
+    "question": "What environment or scene does this audio most likely suggest?",
+    "answer": "office / indoor workspace",
+    "id": "qa_03357"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "what",
+    "question": "Is there a phone ringing in this clip?",
+    "answer": "yes",
+    "id": "qa_03358"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "what",
+    "question": "Is there a car horn in this clip?",
+    "answer": "no",
+    "id": "qa_03359"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "counting",
+    "question": "How many times does a door knock occur in this clip?",
+    "answer": "1",
+    "id": "qa_03360"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "counting",
+    "question": "How many times does glass breaking occur in this clip?",
+    "answer": "1",
+    "id": "qa_03361"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "counting",
+    "question": "How many times does a phone ringing occur in this clip?",
+    "answer": "1",
+    "id": "qa_03362"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "counting",
+    "question": "How many times does a siren occur in this clip?",
+    "answer": "1",
+    "id": "qa_03363"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "counting",
+    "question": "How many times does keyboard typing occur in this clip?",
+    "answer": "0",
+    "id": "qa_03364"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "temporal",
+    "question": "Which sound event occurs first in this clip?",
+    "answer": "glass breaking",
+    "id": "qa_03365"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "temporal",
+    "question": "Which sound event occurs last in this clip?",
+    "answer": "a siren",
+    "id": "qa_03366"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "temporal",
+    "question": "Does glass breaking occur before or after a siren?",
+    "answer": "before",
+    "id": "qa_03367"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "temporal",
+    "question": "What happens immediately after glass breaking?",
+    "answer": "a siren",
+    "id": "qa_03368"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "causal",
+    "question": "Why might a door knock be occurring in this recording?",
+    "answer": "someone requesting entry at a door",
+    "id": "qa_03369"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "causal",
+    "question": "Why might glass breaking be occurring in this recording?",
+    "answer": "an object breaking a glass surface, e.g. a window",
+    "id": "qa_03370"
+  },
+  {
+    "clip_id": "clip_0218",
+    "type": "causal",
+    "question": "Why does this audio suggest that particular environment?",
+    "answer": "because it contains a door knock, glass breaking, a phone ringing, a siren, a combination typically associated with a office / indoor workspace",
+    "id": "qa_03371"
+  }
+]
