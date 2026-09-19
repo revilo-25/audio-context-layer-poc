@@ -1,0 +1,35 @@
+Window-level validation accuracy: 0.9522
+Window-level test accuracy: 0.9537
+
+Classification report (test set):
+                 precision    recall  f1-score   support
+
+       baby_cry       0.98      0.98      0.98        62
+     background       0.93      1.00      0.96       531
+       car_horn       0.95      0.98      0.96        41
+       dog_bark       1.00      0.90      0.95        29
+     door_knock       0.97      0.83      0.90        42
+      footsteps       0.96      0.77      0.85        69
+    glass_break       0.95      0.73      0.83        26
+keyboard_typing       0.95      0.89      0.92       135
+     phone_ring       0.98      0.97      0.98        67
+           rain       0.99      0.96      0.98       106
+          siren       0.99      0.99      0.99       146
+
+       accuracy                           0.95      1254
+      macro avg       0.97      0.91      0.94      1254
+   weighted avg       0.95      0.95      0.95      1254
+
+
+Confusion matrix labels: baby_cry, background, car_horn, dog_bark, door_knock, footsteps, glass_break, keyboard_typing, phone_ring, rain, siren
+[[ 61   1   0   0   0   0   0   0   0   0   0]
+ [  0 531   0   0   0   0   0   0   0   0   0]
+ [  0   1  40   0   0   0   0   0   0   0   0]
+ [  0   3   0  26   0   0   0   0   0   0   0]
+ [  0   7   0   0  35   0   0   0   0   0   0]
+ [  0   8   2   0   0  53   1   4   1   0   0]
+ [  0   4   0   0   1   0  19   1   0   0   1]
+ [  0  12   0   0   0   2   0 120   0   0   1]
+ [  1   0   0   0   0   0   0   0  65   1   0]
+ [  0   4   0   0   0   0   0   0   0 102   0]
+ [  0   1   0   0   0   0   0   1   0   0 144]]

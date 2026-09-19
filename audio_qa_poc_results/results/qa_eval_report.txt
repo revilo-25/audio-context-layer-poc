@@ -1,0 +1,9 @@
+N test QA pairs: 509
+Question-type classification accuracy: 1.0000
+Overall answer score (exact-match / F1 hybrid): 0.9389
+
+Per-question-type breakdown:
+  what       n= 132  avg_score=0.9891  exact_match_rate=0.9773
+  counting   n= 146  avg_score=0.9863  exact_match_rate=0.9863
+  temporal   n= 132  avg_score=0.7914  exact_match_rate=0.7803
+  causal     n=  99  avg_score=0.9987  exact_match_rate=0.9798

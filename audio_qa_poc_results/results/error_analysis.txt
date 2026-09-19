@@ -1,0 +1,106 @@
+ERROR ANALYSIS: lowest-scoring examples per question type
+
+
+--- WHAT ---
+  clip=clip_0099 score=0.00
+    Q: Is there glass breaking in this clip?
+    gold: 'yes'
+    pred: 'no'
+  clip=clip_0099 score=0.67
+    Q: What sounds are present in this audio clip?
+    gold: 'a siren, glass breaking'
+    pred: 'a siren'
+  clip=clip_0172 score=0.89
+    Q: What sounds are present in this audio clip?
+    gold: 'a dog barking, a phone ringing, glass breaking, keyboard typing, rain'
+    pred: 'a dog barking, keyboard typing, a phone ringing, rain'
+  clip=clip_0000 score=1.00
+    Q: What sounds are present in this audio clip?
+    gold: 'a car horn, a dog barking, a phone ringing, a siren, keyboard typing'
+    pred: 'a car horn, a dog barking, keyboard typing, a phone ringing, a siren'
+  clip=clip_0000 score=1.00
+    Q: What environment or scene does this audio most likely suggest?
+    gold: 'street / outdoor urban scene'
+    pred: 'street / outdoor urban scene'
+  clip=clip_0000 score=1.00
+    Q: Is there keyboard typing in this clip?
+    gold: 'yes'
+    pred: 'yes'
+
+--- COUNTING ---
+  clip=clip_0099 score=0.00
+    Q: How many times does glass breaking occur in this clip?
+    gold: '1'
+    pred: '0'
+  clip=clip_0172 score=0.00
+    Q: How many times does glass breaking occur in this clip?
+    gold: '1'
+    pred: '0'
+  clip=clip_0000 score=1.00
+    Q: How many times does a car horn occur in this clip?
+    gold: '1'
+    pred: '1'
+  clip=clip_0000 score=1.00
+    Q: How many times does a dog barking occur in this clip?
+    gold: '1'
+    pred: '1'
+  clip=clip_0000 score=1.00
+    Q: How many times does keyboard typing occur in this clip?
+    gold: '1'
+    pred: '1'
+  clip=clip_0000 score=1.00
+    Q: How many times does a phone ringing occur in this clip?
+    gold: '1'
+    pred: '1'
+
+--- TEMPORAL ---
+  clip=clip_0000 score=0.00
+    Q: Does a car horn occur before or after a dog barking?
+    gold: 'before'
+    pred: 'after'
+  clip=clip_0002 score=0.00
+    Q: Does a phone ringing occur before or after footsteps?
+    gold: 'before'
+    pred: 'after'
+  clip=clip_0005 score=0.00
+    Q: What happens immediately after a door knock?
+    gold: 'keyboard typing'
+    pred: 'footsteps'
+  clip=clip_0007 score=0.00
+    Q: What happens immediately after a dog barking?
+    gold: 'keyboard typing'
+    pred: 'rain'
+  clip=clip_0014 score=0.00
+    Q: Does a baby crying occur before or after footsteps?
+    gold: 'before'
+    pred: 'after'
+  clip=clip_0014 score=0.00
+    Q: What happens immediately after a baby crying?
+    gold: 'footsteps'
+    pred: 'rain'
+
+--- CAUSAL ---
+  clip=clip_0099 score=0.93
+    Q: Why does this audio suggest that particular environment?
+    gold: 'because it contains glass breaking, a siren, a combination typically associated with a street with emergency vehicle traffic'
+    pred: 'because it contains a siren, a combination typically associated with a street with emergency vehicle traffic'
+  clip=clip_0172 score=0.95
+    Q: Why does this audio suggest that particular environment?
+    gold: 'because it contains a dog barking, glass breaking, keyboard typing, a phone ringing, rain, a combination typically associated with a office / indoor workspace'
+    pred: 'because it contains a dog barking, keyboard typing, a phone ringing, rain, a combination typically associated with a office / indoor workspace'
+  clip=clip_0000 score=1.00
+    Q: Why might a car horn be occurring in this recording?
+    gold: 'a driver signaling another vehicle or pedestrian'
+    pred: 'a driver signaling another vehicle or pedestrian'
+  clip=clip_0000 score=1.00
+    Q: Why might a dog barking be occurring in this recording?
+    gold: 'a dog reacting to a nearby stimulus (person, animal, or noise)'
+    pred: 'a dog reacting to a nearby stimulus (person, animal, or noise)'
+  clip=clip_0000 score=1.00
+    Q: Why does this audio suggest that particular environment?
+    gold: 'because it contains a car horn, a dog barking, keyboard typing, a phone ringing, a siren, a combination typically associated with a street / outdoor urban scene'
+    pred: 'because it contains a car horn, a dog barking, keyboard typing, a phone ringing, a siren, a combination typically associated with a street / outdoor urban scene'
+  clip=clip_0002 score=1.00
+    Q: Why might footsteps be occurring in this recording?
+    gold: 'a person walking through or near the scene'
+    pred: 'a person walking through or near the scene'
